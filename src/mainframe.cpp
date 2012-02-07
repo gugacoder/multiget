@@ -188,6 +188,7 @@ extern std::string gDefSavePath, gDefFtpPass, gsMonitorExt, gsIgnoreExt;
 
 extern bool gbIgnoreExt;
 extern bool gbMonitorExt;
+extern bool gbDisableDropWin;
 extern bool gbShowDropWin;
 extern bool gbMonitorClip;
 extern bool gbSoundTip;
