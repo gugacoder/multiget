@@ -356,45 +356,45 @@ void MainFrame::InitMenuBar()
     wxMenu *helpMenu = new wxMenu;
 
     wxMenuItem *visit =
-        new wxMenuItem( helpMenu, mgID_HELP_VISITHOME, _("Visit homepage..."), _( "Visit homepage" ) );
+        new wxMenuItem( helpMenu, mgID_HELP_VISITHOME, _("Visit &homepage..."), _( "Visit homepage" ) );
     visit->SetBitmap( wxBitmap( msgsystem_16_xpm ) );
     helpMenu->Append( visit );
 	
     wxMenuItem *about =
-        new wxMenuItem( helpMenu, wxID_ABOUT, _("About\tCtrl+O"), _( "About program" ) );
+        new wxMenuItem( helpMenu, wxID_ABOUT, _("A&bout\tCtrl+O"), _( "About program" ) );
     about->SetBitmap( wxBitmap( about_xpm ) );
     helpMenu->Append( about );
 
     wxMenuItem *option =
-        new wxMenuItem( setMenu, mgID_OPTION_CONFIG, _("Settings\tCtrl+S"), _( "sys setting" ) );
+        new wxMenuItem( setMenu, mgID_OPTION_CONFIG, _("&Settings\tCtrl+S"), _( "sys setting" ) );
     option->SetBitmap( wxBitmap( option_xpm ) );
     setMenu->Append( option );
 
     wxMenuItem *proxy =
-        new wxMenuItem( setMenu, mgID_OPTION_PROXY, _("Proxy Admin\tCtrl+T"), _( "proxy setting" ) );
+        new wxMenuItem( setMenu, mgID_OPTION_PROXY, _("&Proxy Admin\tCtrl+T"), _( "proxy setting" ) );
     proxy->SetBitmap( wxBitmap( proxy_xpm ) );
     setMenu->Append( proxy );
 
 	
     wxMenuItem *saveconfig =
-        new wxMenuItem( fileMenu, mgID_FILE_SAVECONFIG, _("Save Config"), _( "Save Config" ) );
+        new wxMenuItem( fileMenu, mgID_FILE_SAVECONFIG, _("Save &Config"), _( "Save Config" ) );
     saveconfig->SetBitmap( wxBitmap( save_xpm ) );
     fileMenu->Append( saveconfig );	
 
     wxMenuItem *savetask =
-        new wxMenuItem( fileMenu, mgID_FILE_SAVETASK, _("Save task list"), _( "Save Task" ) );
+        new wxMenuItem( fileMenu, mgID_FILE_SAVETASK, _("Save &task list"), _( "Save Task" ) );
     savetask->SetBitmap( wxBitmap( save_xpm ) );
     fileMenu->Append( savetask );	
 	
     wxMenuItem *saveproxy =
-        new wxMenuItem( fileMenu, mgID_FILE_SAVEPROXY, _("Save proxy list"), _( "Save Proxy" ) );
+        new wxMenuItem( fileMenu, mgID_FILE_SAVEPROXY, _("Save &proxy list"), _( "Save Proxy" ) );
     saveproxy->SetBitmap( wxBitmap( save_xpm ) );
     fileMenu->Append( saveproxy );		
 
 	fileMenu->AppendSeparator();
 	
     wxMenuItem *quit =
-        new wxMenuItem( fileMenu, wxID_EXIT, _("Quit\tCtrl+Q"), _( "Quit program" ) );
+        new wxMenuItem( fileMenu, wxID_EXIT, _("&Quit\tCtrl+Q"), _( "Quit program" ) );
     quit->SetBitmap( wxBitmap( quit_xpm ) );
     fileMenu->Append( quit );	
 	
@@ -422,10 +422,10 @@ void MainFrame::InitMenuBar()
 */
 
     wxMenu *tool = new wxMenu;
-    tool->AppendRadioItem( mgID_VIEW_TOOLBAR_SIZE16, _("16*16 icon"), _( "size 16" ) );
-    tool->AppendRadioItem( mgID_VIEW_TOOLBAR_SIZE24, _("24*24 icon"), _( "size 24" ) );
-    tool->AppendRadioItem( mgID_VIEW_TOOLBAR_SIZE32, _("32*32 icon"), _( "size 32" ) );
-    viewMenu->Append( mgID_VIEW_TOOLBAR, _("ToolBar"), tool );
+    tool->AppendRadioItem( mgID_VIEW_TOOLBAR_SIZE16, _("&16x16 icon"), _( "size 16" ) );
+    tool->AppendRadioItem( mgID_VIEW_TOOLBAR_SIZE24, _("&24x24 icon"), _( "size 24" ) );
+    tool->AppendRadioItem( mgID_VIEW_TOOLBAR_SIZE32, _("&32x32 icon"), _( "size 32" ) );
+    viewMenu->Append( mgID_VIEW_TOOLBAR, _("&ToolBar"), tool );
 
     switch ( TOOLBAR_SIZE )
     {
@@ -443,38 +443,38 @@ void MainFrame::InitMenuBar()
         break;
     }
 
-    viewMenu->AppendCheckItem( mgID_VIEW_STATUSBAR, _("StatusBar"), _( "StatusBar" ) );
+    viewMenu->AppendCheckItem( mgID_VIEW_STATUSBAR, _("&StatusBar"), _( "StatusBar" ) );
     viewMenu->Check( mgID_VIEW_STATUSBAR, m_bShowStatusBar );
 
     wxMenuItem *newtask =
-        new wxMenuItem( taskMenu, mgID_NEW_TASK, _("New\tCtrl+N"), _( "create a new task." ) );
+        new wxMenuItem( taskMenu, mgID_NEW_TASK, _("&New\tCtrl+N"), _( "create a new task." ) );
     newtask->SetBitmap( wxBitmap( new_xpm ) );
     wxMenuItem *starttask =
-        new wxMenuItem( taskMenu, mgID_START_TASK, _("Start\tCtrl+G"), _( "start current task." ) );
+        new wxMenuItem( taskMenu, mgID_START_TASK, _("&Start\tCtrl+G"), _( "start current task." ) );
     starttask->SetBitmap( wxBitmap( run_xpm ) );
     wxMenuItem *pausetask =
-        new wxMenuItem( taskMenu, mgID_STOP_TASK, _("Pause\tCtrl+P"), _( "pause current task." ) );
+        new wxMenuItem( taskMenu, mgID_STOP_TASK, _("&Pause\tCtrl+P"), _( "pause current task." ) );
     pausetask->SetBitmap( wxBitmap( stop_xpm ) );
     wxMenuItem *deletetask =
-        new wxMenuItem( taskMenu, mgID_CANCEL_TASK, _("Delete\tDel"), _( "delete current task." ) );
+        new wxMenuItem( taskMenu, mgID_CANCEL_TASK, _("&Delete\tDel"), _( "delete current task." ) );
     deletetask->SetBitmap( wxBitmap( delete_xpm ) );
 
     wxMenuItem *moveup =
-        new wxMenuItem( taskMenu, mgID_MOVEUP_TASK, _("MoveUp\tCtrl+U"), _( "moveup current task." ) );
+        new wxMenuItem( taskMenu, mgID_MOVEUP_TASK, _("Move&Up\tCtrl+U"), _( "moveup current task." ) );
     moveup->SetBitmap( wxBitmap( up_xpm ) );
     wxMenuItem *movedown =
-        new wxMenuItem( taskMenu, mgID_MOVEDOWN_TASK, _("MoveDown\tCtrl+D"), _( "movedown current task." ) );
+        new wxMenuItem( taskMenu, mgID_MOVEDOWN_TASK, _("MoveD&own\tCtrl+D"), _( "movedown current task." ) );
     movedown->SetBitmap( wxBitmap( down_xpm ) );
 
     wxMenuItem *addant =
-        new wxMenuItem( taskMenu, mgID_ADDTHREAD, _("+Thread\tCtrl++"), _( "increase a working thread." ) );
+        new wxMenuItem( taskMenu, mgID_ADDTHREAD, _("&+Thread\tCtrl++"), _( "increase a working thread." ) );
     addant->SetBitmap( wxBitmap( plus_xpm ) );
     wxMenuItem *subant =
-        new wxMenuItem( taskMenu, mgID_SUBTHREAD, _("-Thread\tCtrl+-"), _( "decrease a working thread." ) );
+        new wxMenuItem( taskMenu, mgID_SUBTHREAD, _("&-Thread\tCtrl+-"), _( "decrease a working thread." ) );
     subant->SetBitmap( wxBitmap( sub_xpm ) );
 
     wxMenuItem *reload =
-        new wxMenuItem( taskMenu, mgID_RELOAD, _("Redownload"), _( "redownload the task" ) );
+        new wxMenuItem( taskMenu, mgID_RELOAD, _("&Redownload"), _( "redownload the task" ) );
     reload->SetBitmap( wxBitmap( reload_xpm ) );
 
     taskMenu->Append( newtask );
@@ -492,11 +492,11 @@ void MainFrame::InitMenuBar()
     //root menu
     wxMenuBar* menubar = new wxMenuBar( wxMB_DOCKABLE );
     assert( menubar != NULL );
-    menubar->Append( fileMenu, _("File(&F)") );
-    menubar->Append( taskMenu, _("Task(&T)") );
-    menubar->Append( viewMenu, _("View(&V)") );
-    menubar->Append( setMenu, _("Option(&P)") );
-    menubar->Append( helpMenu, _("Help(&H)") );
+    menubar->Append( fileMenu, _("&File") );
+    menubar->Append( taskMenu, _("&Task") );
+    menubar->Append( viewMenu, _("&View") );
+    menubar->Append( setMenu, _("&Option") );
+    menubar->Append( helpMenu, _("&Help") );
 
 	//Under Windows, a size event is generated, so be sure to initialize data members properly before calling SetMenuBar.
     SetMenuBar( menubar );
