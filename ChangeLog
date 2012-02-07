@@ -1,0 +1,13 @@
+2008-04-15 Wing Sun <chunyang.sun@sw-linux.com>
+	* Using GNU gettext for i18n.
+	  Change source code in src/
+	  Update po/zh_CN.po
+	* Disable Language menu.
+	* Fix Makefile erro in data directory.
+2008-03-25 Wing Sun <chunyang.sun@sw-linux.com>
+
+	* Working on release Version 1.2.0.
+	* Add directory data to hold desktop and other files.
+	* Add desktop file, and installl to /usr/share/applications.
+	* Add desktop file to po/POTFILES.in
+	* configure.ac: updated.

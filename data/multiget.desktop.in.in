@@ -1,0 +1,12 @@
+[Desktop Entry]
+_Name=MultiGet
+_GenericName=MultiGet
+_Comment=Multi thread download tools
+TryExec=multiget
+Exec=multiget
+Icon=gtk-network
+Terminal=false
+Type=Application
+Categories=Application;GTK;GNOME;Network;FileTransfer;
+StartupNotify=true
+Encoding=UTF-8

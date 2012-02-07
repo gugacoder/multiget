@@ -1,0 +1,1633 @@
+# Simplified Chinese translation for Multiget
+# Copyright (C) 2008 
+# This file is distributed under the same license as the Multiget package.
+# Wing Sun <chunyang.sun@sw-linux.com> 2008
+#
+#: ../src/addproxydlg.cpp:48 ../src/addproxydlg.cpp:56
+#: ../src/addproxydlg.cpp:58 ../src/addproxydlg.cpp:60
+#: ../src/addproxydlg.cpp:62 ../src/configwin.cpp:108 ../src/configwin.cpp:115
+#: ../src/configwin.cpp:130 ../src/configwin.cpp:142 ../src/configwin.cpp:149
+#: ../src/configwin.cpp:156 ../src/configwin.cpp:163 ../src/configwin.cpp:182
+#: ../src/configwin.cpp:235 ../src/configwin.cpp:256 ../src/hidewin.cpp:48
+#: ../src/hidewin.cpp:50 ../src/mainframe.cpp:700 ../src/mgnewtaskdlg.cpp:159
+#: ../src/mgnewtaskdlg.cpp:163 ../src/mgnewtaskdlg.cpp:214
+#: ../src/mgnewtaskdlg.cpp:292 ../src/mgnewtaskdlg.cpp:323
+#: ../src/mgnewtaskdlg.cpp:341 ../src/mgnewtaskdlg.cpp:351
+#: ../src/mgnewtaskdlg.cpp:361 ../src/mgnewtaskdlg.cpp:468
+#: ../src/mgnewtaskdlg.cpp:478 ../src/mgnewtaskdlg.cpp:500
+#: ../src/propertydlg.cpp:175 ../src/propertydlg.cpp:251
+#: ../src/propertydlg.cpp:264 ../src/propertydlg.cpp:282
+#: ../src/propertydlg.cpp:301 ../src/propertydlg.cpp:322
+#: ../src/propertydlg.cpp:443 ../src/propertydlg.cpp:466
+#: ../src/propertydlg.cpp:497 ../src/systray.cpp:153 ../src/systray.cpp:168
+#: ../src/systray.cpp:179 ../src/systray.cpp:181 ../src/systray.cpp:182
+#: ../src/systray.cpp:183 ../src/systray.cpp:184 ../src/systray.cpp:185
+#: ../src/systray.cpp:186 ../src/systray.cpp:187 ../src/systray.cpp:188
+#: ../src/systray.cpp:189 ../src/systray.cpp:190 ../src/systray.cpp:191
+#: ../src/systray.cpp:192 ../src/systray.cpp:198 ../src/systray.cpp:206
+#: ../src/systray.cpp:213 ../src/taskdetailreport.cpp:173
+#: ../src/taskdetailreport.cpp:182 ../src/taskdetailreport.cpp:191
+#: ../src/taskdetailreport.cpp:205 ../src/tasklist.cpp:68
+msgid ""
+msgstr ""
+"Project-Id-Version: Multiget 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-15 15:04+0800\n"
+"PO-Revision-Date: 2008-03-26 11:35+0800\n"
+"Last-Translator: Wing Sun <chunyang.sun@sw-linu.com>\n"
+"Language-Team: Multiget@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/multiget.desktop.in.in.h:1
+msgid "Multi thread download tools"
+msgstr "多线程下载工具"
+
+#: ../data/multiget.desktop.in.in.h:2 ../src/lefttree.cpp:83
+msgid "MultiGet"
+msgstr "飞箭"
+
+#: ../src/addproxydlg.cpp:32 ../src/proxydlg.cpp:133
+msgid "Add Proxy"
+msgstr "添加代理"
+
+#: ../src/addproxydlg.cpp:45
+msgid "Proxy Name"
+msgstr "代理名称"
+
+#: ../src/addproxydlg.cpp:53
+msgid "Proxy Args"
+msgstr "代理参数"
+
+#: ../src/addproxydlg.cpp:55 ../src/proxydlg.cpp:85
+msgid "Server"
+msgstr "服务器"
+
+#: ../src/addproxydlg.cpp:57 ../src/proxydlg.cpp:93
+msgid "Port"
+msgstr "端口"
+
+#: ../src/addproxydlg.cpp:59
+msgid "User[option]"
+msgstr "用户名［可选］"
+
+#: ../src/addproxydlg.cpp:61
+msgid "Password[option]"
+msgstr "口令［可选］"
+
+#: ../src/addproxydlg.cpp:69
+msgid "socks auto version"
+msgstr "SOCKS（自动检测版本）"
+
+#: ../src/addproxydlg.cpp:70
+msgid "socks version 4"
+msgstr "SOCKS 4"
+
+#: ../src/addproxydlg.cpp:71
+msgid "socks version 4a"
+msgstr "SOCKS 4a"
+
+#: ../src/addproxydlg.cpp:72
+msgid "socks version 5 "
+msgstr "SOCKS 5"
+
+#: ../src/addproxydlg.cpp:73 ../src/proxydlg.cpp:274
+msgid "ftp proxy"
+msgstr "FTP代理"
+
+#: ../src/addproxydlg.cpp:74 ../src/proxydlg.cpp:278
+msgid "http proxy"
+msgstr "HTTP代理"
+
+#: ../src/addproxydlg.cpp:77 ../src/proxydlg.cpp:77
+msgid "Type"
+msgstr "类型"
+
+#: ../src/addproxydlg.cpp:87 ../src/configwin.cpp:306
+#: ../src/mgnewtaskdlg.cpp:489 ../src/propertydlg.cpp:483
+msgid "Cancel"
+msgstr "取消"
+
+#: ../src/addproxydlg.cpp:88 ../src/configwin.cpp:307
+#: ../src/mgnewtaskdlg.cpp:490 ../src/propertydlg.cpp:485
+#: ../src/proxydlg.cpp:137
+msgid "OK"
+msgstr "确定"
+
+#: ../src/configwin.cpp:66
+msgid "System Configure"
+msgstr "系统配置"
+
+#. part 1
+#: ../src/configwin.cpp:105
+msgid "Task Arguments"
+msgstr "任务参数"
+
+#. max run task
+#: ../src/configwin.cpp:107
+msgid "Max Running Tasks[1-10]:"
+msgstr "最多同时运行任务[1-10]"
+
+#. default thread
+#: ../src/configwin.cpp:114
+msgid "Default Sessions[1-10]:"
+msgstr "默认任务分片数[1-10]"
+
+#: ../src/configwin.cpp:124
+msgid "Default Save Path:"
+msgstr "默认下载文件保存目录："
+
+#: ../src/configwin.cpp:136 ../src/mgnewtaskdlg.cpp:310
+#: ../src/propertydlg.cpp:259
+msgid "..."
+msgstr "..."
+
+#. connect timeout
+#. part 2
+#: ../src/configwin.cpp:139
+msgid "Network Arguments"
+msgstr "网络参数"
+
+#: ../src/configwin.cpp:141
+msgid "Connect Timeout[10-300]:"
+msgstr "连接超时[10-300]:"
+
+#: ../src/configwin.cpp:148
+msgid "Send/Receive Timeout[10-300]:"
+msgstr "发送/接收超时[10-300]:"
+
+#: ../src/configwin.cpp:155
+msgid "Default Retry/Sessions[1-99999]:"
+msgstr "默认重试次数/每线程[1-99999]:"
+
+#: ../src/configwin.cpp:162
+msgid "Default Retry Delay[5-3000]:"
+msgstr "默认重试延时[5-3000]:"
+
+#. FTP pass
+#. part3 soundtip,FTP pass,speedmode
+#: ../src/configwin.cpp:170
+msgid "Other"
+msgstr "其它"
+
+#: ../src/configwin.cpp:176
+msgid "FTP Anon Pass:"
+msgstr "FTP匿名用户口令："
+
+#: ../src/configwin.cpp:192
+msgid "Speed Limit"
+msgstr "速度限制"
+
+#: ../src/configwin.cpp:197 ../src/systray.cpp:179
+msgid "No Limit"
+msgstr "没限制"
+
+#: ../src/configwin.cpp:198
+msgid "5 M/s"
+msgstr "5 M/s"
+
+#: ../src/configwin.cpp:199
+msgid "2 M/s"
+msgstr "2 M/s"
+
+#: ../src/configwin.cpp:200
+msgid "1 M/s"
+msgstr "1 M/s"
+
+#: ../src/configwin.cpp:201
+msgid "700 KB/s"
+msgstr "700 KB/s"
+
+#: ../src/configwin.cpp:202
+msgid "500 KB/s"
+msgstr "500 KB/s"
+
+#: ../src/configwin.cpp:203
+msgid "400 KB/s"
+msgstr "400 KB/s"
+
+#: ../src/configwin.cpp:204
+msgid "300 KB/s"
+msgstr "300 KB/s"
+
+#: ../src/configwin.cpp:205
+msgid "200 KB/s"
+msgstr "200 KB/s"
+
+#: ../src/configwin.cpp:206
+msgid "100 KB/s"
+msgstr "100 KB/s"
+
+#: ../src/configwin.cpp:207
+msgid "50 KB/s"
+msgstr "50 KB/s"
+
+#: ../src/configwin.cpp:208
+msgid "20 KB/s"
+msgstr "20 KB/s"
+
+#: ../src/configwin.cpp:209
+msgid "10 KB/s"
+msgstr "10 KB/s"
+
+#. float win
+#: ../src/configwin.cpp:221 ../src/systray.cpp:161
+msgid "Monitor Clipboard"
+msgstr "剪贴板监视"
+
+#: ../src/configwin.cpp:226
+msgid "Ignore Extentions:"
+msgstr "忽略扩展名："
+
+#: ../src/configwin.cpp:246
+msgid "Capture Extentions:"
+msgstr "监视扩展名："
+
+#: ../src/configwin.cpp:266
+msgid "Sound tip when task finish (Experimental)"
+msgstr "任务结束时播放声音提示（实验性的）"
+
+#: ../src/configwin.cpp:275
+msgid "Auto md5 check"
+msgstr "自动校验MD5值"
+
+#: ../src/configwin.cpp:320 ../src/propertydlg.cpp:552
+msgid "Choose a directory to save file"
+msgstr "选择保存文件的目录"
+
+#: ../src/floatwin.cpp:49 ../src/floatwin.cpp:52
+msgid "drop"
+msgstr "拖动"
+
+#: ../src/lefttree.cpp:85 ../src/lefttree.cpp:170
+#: ../src/taskdetailreport.cpp:93
+msgid "Running"
+msgstr "运行中"
+
+#: ../src/lefttree.cpp:86 ../src/lefttree.cpp:171
+#: ../src/taskdetailreport.cpp:97
+msgid "Pause"
+msgstr "暂停"
+
+#: ../src/lefttree.cpp:87 ../src/lefttree.cpp:172
+msgid "Failed"
+msgstr "失败"
+
+#: ../src/lefttree.cpp:88 ../src/lefttree.cpp:173
+msgid "Finish"
+msgstr "完成"
+
+#: ../src/lefttree.cpp:89 ../src/lefttree.cpp:174
+#: ../src/taskdetailreport.cpp:127
+msgid "Trash"
+msgstr "回收站"
+
+#: ../src/lefttree.cpp:113 ../src/lefttree.cpp:176
+msgid "Software"
+msgstr "软件"
+
+#: ../src/lefttree.cpp:118 ../src/lefttree.cpp:177
+msgid "Package"
+msgstr "压缩包"
+
+#: ../src/lefttree.cpp:123 ../src/lefttree.cpp:178
+msgid "Music"
+msgstr "音乐"
+
+#: ../src/lefttree.cpp:128 ../src/lefttree.cpp:179
+msgid "Images"
+msgstr "光盘映像"
+
+#: ../src/lefttree.cpp:133 ../src/lefttree.cpp:180
+msgid "Movies"
+msgstr "电影"
+
+#: ../src/lefttree.cpp:138 ../src/lefttree.cpp:181
+msgid "Publish"
+msgstr "出版"
+
+#: ../src/lefttree.cpp:143 ../src/lefttree.cpp:182
+msgid "Pictures"
+msgstr "图片"
+
+#: ../src/lefttree.cpp:148 ../src/lefttree.cpp:183
+#: ../src/taskdetailreport.cpp:131 ../src/tasklist.cpp:430
+msgid "Unknown"
+msgstr "未知"
+
+#: ../src/mainframe.cpp:219 ../src/mainframe.cpp:306 ../src/mainframe.cpp:2945
+#: ../src/mainframe.cpp:2952 ../src/mgapp.cpp:187 ../src/mgapp.cpp:196
+msgid "MultiGet file downloader"
+msgstr "飞箭下载"
+
+#. help
+#: ../src/mainframe.cpp:355 ../src/mainframe.cpp:2932
+msgid "Visit homepage..."
+msgstr "访问主页..."
+
+#: ../src/mainframe.cpp:355
+msgid "Visit homepage"
+msgstr "访问主页"
+
+#: ../src/mainframe.cpp:360 ../src/mainframe.cpp:2934 ../src/systray.cpp:206
+msgid "About\tCtrl+O"
+msgstr "关于\tCtrl+O"
+
+#: ../src/mainframe.cpp:360
+msgid "About program"
+msgstr "关于程序"
+
+#. Setting
+#: ../src/mainframe.cpp:365 ../src/mainframe.cpp:622 ../src/mainframe.cpp:2927
+msgid "Settings\tCtrl+S"
+msgstr "设置\tCtrl+S"
+
+#: ../src/mainframe.cpp:365
+msgid "sys setting"
+msgstr "系统设置"
+
+#: ../src/mainframe.cpp:370 ../src/mainframe.cpp:627 ../src/mainframe.cpp:2929
+msgid "Proxy Admin\tCtrl+T"
+msgstr "代理管理\tCtrl+T"
+
+#: ../src/mainframe.cpp:370
+msgid "proxy setting"
+msgstr "代理设置"
+
+#: ../src/mainframe.cpp:376 ../src/mainframe.cpp:2888
+msgid "Save Config"
+msgstr "保存配置"
+
+#: ../src/mainframe.cpp:381 ../src/mainframe.cpp:2892
+msgid "Save task list"
+msgstr "保存任务列表"
+
+#: ../src/mainframe.cpp:381
+msgid "Save Task"
+msgstr "保存任务"
+
+#: ../src/mainframe.cpp:386 ../src/mainframe.cpp:2890
+msgid "Save proxy list"
+msgstr "保存代理列表"
+
+#: ../src/mainframe.cpp:386
+msgid "Save Proxy"
+msgstr "保存代理"
+
+#. update other
+#. file
+#: ../src/mainframe.cpp:393 ../src/mainframe.cpp:2886 ../src/systray.cpp:213
+msgid "Quit\tCtrl+Q"
+msgstr "关于\tCtrl+O"
+
+#: ../src/mainframe.cpp:393
+msgid "Quit program"
+msgstr "退出程序"
+
+#: ../src/mainframe.cpp:400
+msgid "English UTF-8"
+msgstr ""
+
+#: ../src/mainframe.cpp:400
+msgid "change to english."
+msgstr ""
+
+#: ../src/mainframe.cpp:402
+msgid "Chinese UTF-8"
+msgstr ""
+
+#: ../src/mainframe.cpp:402 ../src/mainframe.cpp:403
+msgid "change to chinese"
+msgstr ""
+
+#: ../src/mainframe.cpp:403
+msgid "Chinese GB18030/GB2312/GBK"
+msgstr ""
+
+#: ../src/mainframe.cpp:405
+msgid "Chinese Traditional zh_TW UTF-8"
+msgstr ""
+
+#: ../src/mainframe.cpp:405
+msgid "Change to Chinese Traditional zh_TW UTF-8"
+msgstr ""
+
+#: ../src/mainframe.cpp:406
+msgid "Chinese Traditional zh_TW BIG5"
+msgstr ""
+
+#: ../src/mainframe.cpp:406
+msgid "Change to Chinese Traditional zh_TW BIG5"
+msgstr ""
+
+#: ../src/mainframe.cpp:408
+msgid "German UTF-8"
+msgstr ""
+
+#: ../src/mainframe.cpp:408
+msgid "change to German"
+msgstr ""
+
+#: ../src/mainframe.cpp:410
+msgid "Portuguese UTF-8"
+msgstr ""
+
+#: ../src/mainframe.cpp:410
+msgid "change to Portuguese"
+msgstr ""
+
+#. view
+#: ../src/mainframe.cpp:415 ../src/mainframe.cpp:2914
+msgid "Language"
+msgstr ""
+
+#: ../src/mainframe.cpp:419 ../src/mainframe.cpp:2918
+msgid "16*16 icon"
+msgstr "16x16 图标"
+
+#: ../src/mainframe.cpp:419
+msgid "size 16"
+msgstr "16点尺寸"
+
+#: ../src/mainframe.cpp:420 ../src/mainframe.cpp:2920
+msgid "24*24 icon"
+msgstr "24x24 图标"
+
+#: ../src/mainframe.cpp:420
+msgid "size 24"
+msgstr "24点尺寸"
+
+#: ../src/mainframe.cpp:421 ../src/mainframe.cpp:2922
+msgid "32*32 icon"
+msgstr "32x32 图标"
+
+#: ../src/mainframe.cpp:421
+msgid "size 32"
+msgstr "32点尺寸"
+
+#: ../src/mainframe.cpp:422 ../src/mainframe.cpp:2916
+msgid "ToolBar"
+msgstr "工具栏"
+
+#: ../src/mainframe.cpp:440 ../src/mainframe.cpp:2924
+msgid "StatusBar"
+msgstr "状态栏"
+
+#. task
+#: ../src/mainframe.cpp:444 ../src/mainframe.cpp:569 ../src/mainframe.cpp:2895
+msgid "New\tCtrl+N"
+msgstr "新建下载任务\tCtrl+N"
+
+#: ../src/mainframe.cpp:444
+msgid "create a new task."
+msgstr "创建新任务。"
+
+#: ../src/mainframe.cpp:447 ../src/mainframe.cpp:574 ../src/mainframe.cpp:2897
+msgid "Start\tCtrl+G"
+msgstr "开始下载任务\tCtrl+G"
+
+#: ../src/mainframe.cpp:447
+msgid "start current task."
+msgstr "开始当前任务。"
+
+#: ../src/mainframe.cpp:450 ../src/mainframe.cpp:579 ../src/mainframe.cpp:2899
+msgid "Pause\tCtrl+P"
+msgstr "暂停下载任务\tCtrl+P"
+
+#: ../src/mainframe.cpp:450
+msgid "pause current task."
+msgstr "暂停当前任务。"
+
+#: ../src/mainframe.cpp:453 ../src/mainframe.cpp:584 ../src/mainframe.cpp:2901
+msgid "Delete\tDel"
+msgstr "删除下载任务\tDel"
+
+#: ../src/mainframe.cpp:453
+msgid "delete current task."
+msgstr "删除当前任务。"
+
+#: ../src/mainframe.cpp:457 ../src/mainframe.cpp:591 ../src/mainframe.cpp:2903
+msgid "MoveUp\tCtrl+U"
+msgstr "上移任务\tCtrl+U"
+
+#: ../src/mainframe.cpp:457
+msgid "moveup current task."
+msgstr "向上移动当前任务。"
+
+#: ../src/mainframe.cpp:460 ../src/mainframe.cpp:596 ../src/mainframe.cpp:2905
+msgid "MoveDown\tCtrl+D"
+msgstr "下移当前任务\tCtrl+D"
+
+#: ../src/mainframe.cpp:460
+msgid "movedown current task."
+msgstr "向下移动当前任务。"
+
+#: ../src/mainframe.cpp:464 ../src/mainframe.cpp:603 ../src/mainframe.cpp:2907
+msgid "+Thread\tCtrl++"
+msgstr "递增下载线程\tCtrl++"
+
+#: ../src/mainframe.cpp:464
+msgid "increase a working thread."
+msgstr "递增工作的下载线程数。"
+
+#: ../src/mainframe.cpp:467 ../src/mainframe.cpp:608 ../src/mainframe.cpp:2909
+msgid "-Thread\tCtrl+-"
+msgstr "递减下载线程\tCtrl+-"
+
+#: ../src/mainframe.cpp:467
+msgid "decrease a working thread."
+msgstr "递减工作的下载线程数。"
+
+#: ../src/mainframe.cpp:471 ../src/mainframe.cpp:615 ../src/mainframe.cpp:2911
+msgid "Redownload"
+msgstr "重新下载"
+
+#: ../src/mainframe.cpp:471
+msgid "redownload the task"
+msgstr "重新下载任务。"
+
+#. update root
+#: ../src/mainframe.cpp:489 ../src/mainframe.cpp:2874
+msgid "File(&F)"
+msgstr "文件(&F)"
+
+#: ../src/mainframe.cpp:490 ../src/mainframe.cpp:2876
+msgid "Task(&T)"
+msgstr "任务(&T)"
+
+#: ../src/mainframe.cpp:491 ../src/mainframe.cpp:2878
+msgid "View(&V)"
+msgstr "视图(&V)"
+
+#: ../src/mainframe.cpp:492 ../src/mainframe.cpp:2880 ../src/systray.cpp:198
+msgid "Option(&P)"
+msgstr "选项(&P)"
+
+#: ../src/mainframe.cpp:493 ../src/mainframe.cpp:2882
+msgid "Help(&H)"
+msgstr "帮助(&H)"
+
+#: ../src/mainframe.cpp:571 ../src/mgnewtaskdlg.cpp:58 ../src/systray.cpp:168
+msgid "New task"
+msgstr "新下载任务"
+
+#: ../src/mainframe.cpp:576 ../src/tasklist.cpp:517
+msgid "Run task"
+msgstr "运行下载任务"
+
+#: ../src/mainframe.cpp:581 ../src/tasklist.cpp:524
+msgid "Stop task"
+msgstr "停止下载任务"
+
+#: ../src/mainframe.cpp:586 ../src/tasklist.cpp:531
+msgid "Delete task"
+msgstr "删除下载任务"
+
+#: ../src/mainframe.cpp:593
+msgid "Move up task"
+msgstr "上移下载任务"
+
+#: ../src/mainframe.cpp:598
+msgid "Move down task"
+msgstr "下移下载任务"
+
+#: ../src/mainframe.cpp:605
+msgid "Increase a session"
+msgstr "递增会话"
+
+#: ../src/mainframe.cpp:610
+msgid "Reduce a session"
+msgstr "递减会话"
+
+#: ../src/mainframe.cpp:617
+msgid "Redownload task"
+msgstr "重新下载任务"
+
+#: ../src/mainframe.cpp:624
+msgid "System configure"
+msgstr "系统配置"
+
+#: ../src/mainframe.cpp:629 ../src/proxydlg.cpp:43
+msgid "Proxy Administrator"
+msgstr "代理管理"
+
+#: ../src/mainframe.cpp:634
+msgid "Properties"
+msgstr "属性"
+
+#: ../src/mainframe.cpp:636 ../src/tasklist.cpp:549
+msgid "Show/Modify task properties"
+msgstr "显示/修改下载任务属性"
+
+#: ../src/mainframe.cpp:656
+msgid "ms"
+msgstr ""
+
+#: ../src/mainframe.cpp:671
+msgid "rs"
+msgstr ""
+
+#: ../src/mainframe.cpp:1233
+msgid "multiget"
+msgstr "飞箭"
+
+#: ../src/mainframe.cpp:1234
+msgid "liubin (multiget@gmail.com)"
+msgstr ""
+
+#: ../src/mainframe.cpp:1235
+msgid "This is a multi-thread http/ftp file downloader."
+msgstr "一个多线程HTTP/FTP下载管理器。"
+
+#: ../src/mainframe.cpp:1236
+msgid "v1.2.0"
+msgstr ""
+
+#: ../src/mainframe.cpp:1237
+msgid "GPLv2"
+msgstr ""
+
+#: ../src/mainframe.cpp:1238 ../src/mainframe.cpp:4939
+msgid "http://multiget.sourceforge.net"
+msgstr ""
+
+#. sorry! I can't remember all the translators.
+#: ../src/mainframe.cpp:1241
+msgid "Jose Oswaldo"
+msgstr ""
+
+#: ../src/mainframe.cpp:1242
+msgid "Michael Frase"
+msgstr ""
+
+#: ../src/mainframe.cpp:1243
+msgid "abel"
+msgstr ""
+
+#: ../src/mainframe.cpp:1249
+msgid "liubin, China"
+msgstr ""
+
+#: ../src/mainframe.cpp:1795
+#, c-format
+msgid "%d KB/S"
+msgstr ""
+
+#: ../src/mainframe.cpp:1796
+msgid "Speed:"
+msgstr "速度："
+
+#: ../src/mainframe.cpp:1819
+msgid "There are tasks running,close window will stop all running task,QUIT?"
+msgstr "当前有任务正在运行中，退出程序将会终止所有运行中的任务。需要退出吗？"
+
+#: ../src/mainframe.cpp:1820
+msgid "Warnning"
+msgstr "警告"
+
+#: ../src/mainframe.cpp:1938
+msgid ""
+"file move fail! \n"
+"find it in /home/yourname/.MultiGet/ and move it out."
+msgstr ""
+"移动文件失败! \n"
+"请在你的用户主目录下的.MultiGet/中找到你下载的文件并将它移动到你保存的地址上"
+"去。"
+
+#. notice finish
+#: ../src/mainframe.cpp:1954
+msgid "Task Finish:"
+msgstr "完成任务："
+
+#. notice
+#: ../src/mainframe.cpp:1993
+msgid "Task Fail:"
+msgstr "失败任务："
+
+#: ../src/mainframe.cpp:2679 ../src/mainframe.cpp:3179
+msgid "Not a supported url file address"
+msgstr "不支持的URL地址"
+
+#: ../src/mainframe.cpp:3180 ../src/taskdetailreport.cpp:105
+msgid "Wrong"
+msgstr "错误"
+
+#: ../src/mainframe.cpp:3253 ../src/mainframe.cpp:3295
+msgid "Welcome to use MultiGet file downloader!"
+msgstr "欢迎使用飞箭下载软件！"
+
+#. x3 = wxString( px.sServer.c_str() );
+#. unicode patch
+#. number of mirror
+#: ../src/mainframe.cpp:3280 ../src/mainframe.cpp:3282
+#: ../src/mgnewtaskdlg.cpp:684 ../src/mgnewtaskdlg.cpp:705
+#: ../src/mgnewtaskdlg.cpp:727 ../src/mgnewtaskdlg.cpp:749
+#: ../src/mgnewtaskdlg.cpp:769 ../src/mgnewtaskdlg.cpp:789
+#: ../src/propertydlg.cpp:687 ../src/propertydlg.cpp:708
+#: ../src/propertydlg.cpp:730 ../src/propertydlg.cpp:752
+#: ../src/propertydlg.cpp:772 ../src/propertydlg.cpp:792
+#: ../src/proxydlg.cpp:288 ../src/taskdetailreport.cpp:76
+#: ../src/taskdetailreport.cpp:84 ../src/taskdetailreport.cpp:138
+#: ../src/taskdetailreport.cpp:166 ../src/tasklist.cpp:311
+#: ../src/tasklist.cpp:414
+#, c-format
+msgid "%d"
+msgstr "%d"
+
+#: ../src/mainframe.cpp:3281
+msgid "Running:"
+msgstr "运行中："
+
+#: ../src/mainframe.cpp:3283
+msgid "Waiting:"
+msgstr "等待中："
+
+#: ../src/mainframe.cpp:4422
+msgid "Redownload will delete old first:"
+msgstr "重新下载将会删除原有的文件："
+
+#: ../src/mainframe.cpp:4422
+msgid "\n"
+msgstr "\n"
+
+#: ../src/mainframe.cpp:4424
+msgid "delete old?"
+msgstr "删除旧文件"
+
+#: ../src/mainframe.cpp:4589
+msgid "url="
+msgstr "url="
+
+#: ../src/mainframe.cpp:4593
+msgid "refer="
+msgstr "refer="
+
+#: ../src/mainframe.cpp:4914
+msgid ""
+"Your system not supports this locale/language, please install language "
+"package."
+msgstr ""
+"Your system not supports this locale/language, please install language "
+"package."
+
+#: ../src/mainframe.cpp:4915
+msgid "Error!"
+msgstr "错误!"
+
+#. menu begin
+#: ../src/meterctrl.cpp:247
+msgid "TOP SPEED"
+msgstr "最高速度"
+
+#: ../src/meterctrl.cpp:249
+msgid "30K/S"
+msgstr "30K/S"
+
+#: ../src/meterctrl.cpp:250
+msgid "90K/S"
+msgstr "90K/S"
+
+#: ../src/meterctrl.cpp:251
+msgid "300K/S"
+msgstr "300K/S"
+
+#: ../src/meterctrl.cpp:252
+msgid "900/S"
+msgstr "900/S"
+
+#: ../src/meterctrl.cpp:253
+msgid "3M/S"
+msgstr "3M/S"
+
+#: ../src/meterctrl.cpp:254
+msgid "9M/S"
+msgstr "9M/S"
+
+#: ../src/mgapp.cpp:242
+msgid "Fatal Exception! QUIT!"
+msgstr "致命错误！将要退出！"
+
+#: ../src/mgfilemanager.cpp:154
+msgid "Task object:"
+msgstr "任务目标："
+
+#. get user home directory
+#: ../src/mgfilemanager.cpp:157
+msgid "Get user temporary directory...:"
+msgstr "获取用户临时目录...："
+
+#: ../src/mgfilemanager.cpp:163
+msgid "Get tempdir fail"
+msgstr "获取临时目录失败"
+
+#: ../src/mgfilemanager.cpp:167
+msgid "Temporary directory is:"
+msgstr "临时目录是："
+
+#: ../src/mgfilemanager.cpp:176
+msgid "Temporary file is:"
+msgstr "临时文件是："
+
+#: ../src/mgfilemanager.cpp:178
+msgid "Index file is:"
+msgstr "索引文件是："
+
+#: ../src/mgfilemanager.cpp:185
+msgid "Check temporary file..."
+msgstr "检查临时文件..."
+
+#: ../src/mgfilemanager.cpp:191
+msgid "Temporary file exists."
+msgstr "临时文件已经存在。"
+
+#: ../src/mgfilemanager.cpp:196
+msgid "Temporary file not exists."
+msgstr "临时文件不存在。"
+
+#: ../src/mgfilemanager.cpp:201
+msgid "Check index file..."
+msgstr "检查索引文件..."
+
+#: ../src/mgfilemanager.cpp:206
+msgid "Index file exists."
+msgstr "索引文件已经存在。"
+
+#: ../src/mgfilemanager.cpp:211
+msgid "Index file not exists."
+msgstr "索引文件不存在。"
+
+#: ../src/mgfilemanager.cpp:217
+msgid "Checking temporary file length..."
+msgstr "检查临时文件长度..."
+
+#: ../src/mgfilemanager.cpp:221
+msgid "File length OK."
+msgstr "文件长度正常。"
+
+#: ../src/mgfilemanager.cpp:226
+msgid "File length check fail."
+msgstr "文件长度检查失败。"
+
+#. if(m_nFileLen!=-1)
+#: ../src/mgfilemanager.cpp:239 ../src/mgfilemanager.cpp:286
+msgid "Creating new temp and index file..."
+msgstr "创建新的临时文件和索引文件..."
+
+#: ../src/mgfilemanager.cpp:247
+msgid "Create index file fail."
+msgstr "创建索引文件失败."
+
+#: ../src/mgfilemanager.cpp:278
+msgid "ftruncate fail,quit.\n"
+msgstr ""
+
+#: ../src/mgfilemanager.cpp:334
+msgid "Read index fail!"
+msgstr "读索引文件失败！"
+
+#: ../src/mgfilemanager.cpp:400
+msgid "get index ok"
+msgstr "获取索引成功。"
+
+#. socket close maybe not indicate the file end.
+#. sometime overload server will close the connection
+#. so we don't use this info if we alread have file size
+#: ../src/mgfilemanager.cpp:612
+msgid "Server closed socket not at file end, maybe file invalid."
+msgstr "文件未结束时服务器关闭了套接字，也许文件是无效的。"
+
+#: ../src/mgfilemanager.cpp:616
+msgid "File length have been confirmed."
+msgstr "确认文件长度。"
+
+#: ../src/mgfilemanager.cpp:625
+msgid "Final file length:"
+msgstr "文件最后长度："
+
+#: ../src/mgfilemanager.cpp:831
+msgid "fseeko fail."
+msgstr ""
+
+#: ../src/mgfilemanager.cpp:844 ../src/mgfilemanager.cpp:854
+#: ../src/mgfilemanager.cpp:867
+msgid "fwrite fail."
+msgstr ""
+
+#: ../src/mgfilemanager.cpp:850 ../src/mgfilemanager.cpp:860
+msgid "data overload"
+msgstr "数据溢出"
+
+#: ../src/mgfilemanager.cpp:893
+msgid "Data overload, maybe file invalid!"
+msgstr "数据溢出，也许文件无效！"
+
+#: ../src/mgfilemanager.cpp:930
+msgid "open datafile error when write !!"
+msgstr "为写而打开数据文件时失败！！"
+
+#: ../src/mgfilemanager.cpp:946
+msgid "task canceled, no more work."
+msgstr "任务取消，无须执行其它任务。"
+
+#: ../src/mgfilemanager.cpp:951
+msgid "zero length task, no work"
+msgstr "零长度的任务，无须执行其它任务"
+
+#: ../src/mgfilemanager.cpp:1229
+msgid "No more task, quit!"
+msgstr "无任务，退出！"
+
+#: ../src/mgfilemanager.cpp:1297
+msgid "URL OK:"
+msgstr "URL正确："
+
+#: ../src/mgfilemanager.cpp:1299
+msgid "URL fail:"
+msgstr "URL失败："
+
+#: ../src/mgfilemanager.cpp:1301
+msgid "URL temp fail:"
+msgstr "URL临时失败："
+
+#. an active url.
+#: ../src/mgfilemanager.cpp:1322
+msgid " redirect to "
+msgstr " 重定向到 "
+
+#. make connection
+#: ../src/mgftpants.cpp:106 ../src/mghttpants.cpp:111
+msgid "Connecting "
+msgstr "连接中 "
+
+#: ../src/mgftpants.cpp:112 ../src/mghttpants.cpp:115 ../src/mghttpinfo.cpp:82
+msgid "Connect fail."
+msgstr "连接失败。"
+
+#: ../src/mgftpants.cpp:120 ../src/mgftpants.cpp:137 ../src/mgftpants.cpp:156
+#: ../src/mgftpants.cpp:182 ../src/mgftpants.cpp:203 ../src/mgftpants.cpp:224
+#: ../src/mgftpants.cpp:244 ../src/mgftpants.cpp:298 ../src/mghttpants.cpp:123
+#: ../src/mghttpants.cpp:141 ../src/mghttpants.cpp:200
+#: ../src/mghttpinfo.cpp:90 ../src/mghttpinfo.cpp:107
+#: ../src/mghttpinfo.cpp:301
+msgid "No more retry, quit."
+msgstr "无须重试，退出。"
+
+#: ../src/mgftpants.cpp:129
+msgid "Login fail."
+msgstr "登录失败。"
+
+#: ../src/mgftpants.cpp:148
+msgid "Enter passive mode fail."
+msgstr "进入被动模式失败。"
+
+#: ../src/mgftpants.cpp:174
+msgid "Data connection fail"
+msgstr "数据连接失败"
+
+#: ../src/mgftpants.cpp:188
+msgid "Data connection Ok"
+msgstr "数据连接成功"
+
+#: ../src/mgftpants.cpp:195
+msgid "Enter binary mode fail"
+msgstr "进入二进制模式失败"
+
+#: ../src/mgftpants.cpp:216
+msgid "Set resume point fail"
+msgstr "设置恢复点失败"
+
+#: ../src/mgftpants.cpp:236 ../src/mghttpants.cpp:133
+msgid "Fail to get file"
+msgstr "获取文件失败"
+
+#: ../src/mgftpants.cpp:251 ../src/mghttpants.cpp:148
+#, c-format
+msgid "Receiving file data from %lld ..."
+msgstr "从%lld中获取文件数据中..."
+
+#. ok
+#: ../src/mgftpants.cpp:260 ../src/mghttpants.cpp:158
+msgid "Finish task session normally, quit."
+msgstr "正常完成任务，退出。"
+
+#: ../src/mgftpants.cpp:270 ../src/mghttpants.cpp:169
+msgid "Write file error."
+msgstr "写文件错误。"
+
+#: ../src/mgftpants.cpp:274 ../src/mghttpants.cpp:173
+msgid "Network error."
+msgstr "网络错误"
+
+#: ../src/mgftpants.cpp:278 ../src/mghttpants.cpp:177
+msgid "change a URL"
+msgstr "改变URL"
+
+#: ../src/mgftpants.cpp:282
+msgid "Other error"
+msgstr "其它错误"
+
+#: ../src/mgftpants.cpp:492 ../src/mghttpants.cpp:451
+#: ../src/mghttpinfo.cpp:357
+#, c-format
+msgid "Wait %d seconds to retry..."
+msgstr "重试将在等待%d秒后..."
+
+#: ../src/mghttpinfo.cpp:77
+#, c-format
+msgid "connecting  %s:%d ..."
+msgstr "连接中 %s:%d ..."
+
+#: ../src/mgnewtaskdlg.cpp:90 ../src/propertydlg.cpp:94
+msgid "index.html"
+msgstr ""
+
+#. part1 url/mirror/savepath/rename
+#: ../src/mgnewtaskdlg.cpp:178 ../src/propertydlg.cpp:147
+msgid "Basic Info"
+msgstr "基本信息"
+
+#: ../src/mgnewtaskdlg.cpp:207 ../src/propertydlg.cpp:168
+msgid "MAIN URL:"
+msgstr "主URL："
+
+#: ../src/mgnewtaskdlg.cpp:245 ../src/propertydlg.cpp:204
+msgid "Mirrors:"
+msgstr "镜像："
+
+#: ../src/mgnewtaskdlg.cpp:260 ../src/propertydlg.cpp:224
+msgid "Save To:"
+msgstr "保存到："
+
+#: ../src/mgnewtaskdlg.cpp:318 ../src/propertydlg.cpp:260
+msgid "Rename:"
+msgstr "重命名："
+
+#. part2
+#: ../src/mgnewtaskdlg.cpp:340 ../src/propertydlg.cpp:281
+msgid "Threads"
+msgstr "线程数"
+
+#: ../src/mgnewtaskdlg.cpp:350 ../src/propertydlg.cpp:299
+#: ../src/tasklist.cpp:99 ../src/tasklist.cpp:479
+msgid "Retry"
+msgstr "重试"
+
+#: ../src/mgnewtaskdlg.cpp:360 ../src/propertydlg.cpp:320
+msgid "Retry Wait [s]"
+msgstr "重试等待[s]"
+
+#: ../src/mgnewtaskdlg.cpp:372
+msgid "yes"
+msgstr "是"
+
+#: ../src/mgnewtaskdlg.cpp:373
+msgid "no"
+msgstr "否"
+
+#: ../src/mgnewtaskdlg.cpp:379
+msgid "Run now?"
+msgstr "立刻运行？"
+
+#. part3 proxy
+#: ../src/mgnewtaskdlg.cpp:393 ../src/propertydlg.cpp:342
+msgid "Proxys[option]"
+msgstr "代理服务[可选]"
+
+#: ../src/mgnewtaskdlg.cpp:399 ../src/propertydlg.cpp:350
+msgid "SOCKS:"
+msgstr "SOCKS:"
+
+#: ../src/mgnewtaskdlg.cpp:419 ../src/propertydlg.cpp:375
+msgid "FTP:"
+msgstr "FTP:"
+
+#: ../src/mgnewtaskdlg.cpp:438 ../src/propertydlg.cpp:401
+msgid "HTTP:"
+msgstr "HTTP:"
+
+#. part4
+#: ../src/mgnewtaskdlg.cpp:463 ../src/propertydlg.cpp:431
+msgid "Login[option]"
+msgstr "登录用户名[可选]"
+
+#: ../src/mgnewtaskdlg.cpp:464 ../src/propertydlg.cpp:436
+msgid "User:"
+msgstr "用户名："
+
+#: ../src/mgnewtaskdlg.cpp:474 ../src/propertydlg.cpp:459
+msgid "Password:"
+msgstr "口令："
+
+#. part6
+#: ../src/mgnewtaskdlg.cpp:495 ../src/propertydlg.cpp:490
+msgid "Reference[option]"
+msgstr "主地址来源信息[可选]"
+
+#: ../src/mgnewtaskdlg.cpp:496 ../src/propertydlg.cpp:492
+msgid "Refer:"
+msgstr "来源于："
+
+#: ../src/mgnewtaskdlg.cpp:546
+msgid "Choose a diretory to save file"
+msgstr "选择一个用于保存下载文件的目录"
+
+#: ../src/mgnewtaskdlg.cpp:659 ../src/propertydlg.cpp:662
+msgid "None"
+msgstr "无"
+
+#: ../src/mgnewtaskdlg.cpp:680 ../src/propertydlg.cpp:683
+#, c-format
+msgid "%s[%s:%d][auto]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:687 ../src/mgnewtaskdlg.cpp:708
+#: ../src/mgnewtaskdlg.cpp:730 ../src/mgnewtaskdlg.cpp:752
+#: ../src/mgnewtaskdlg.cpp:772 ../src/mgnewtaskdlg.cpp:792
+#: ../src/propertydlg.cpp:690 ../src/propertydlg.cpp:711
+#: ../src/propertydlg.cpp:733 ../src/propertydlg.cpp:755
+#: ../src/propertydlg.cpp:775 ../src/propertydlg.cpp:795
+msgid "["
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:688 ../src/mgnewtaskdlg.cpp:709
+#: ../src/mgnewtaskdlg.cpp:731 ../src/mgnewtaskdlg.cpp:753
+#: ../src/mgnewtaskdlg.cpp:773 ../src/mgnewtaskdlg.cpp:793
+#: ../src/propertydlg.cpp:691 ../src/propertydlg.cpp:712
+#: ../src/propertydlg.cpp:734 ../src/propertydlg.cpp:756
+#: ../src/propertydlg.cpp:776 ../src/propertydlg.cpp:796
+msgid ":"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:688 ../src/propertydlg.cpp:691
+msgid "][auto]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:701 ../src/propertydlg.cpp:704
+#, c-format
+msgid "%s[%s:%d][v4]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:709 ../src/propertydlg.cpp:712
+msgid "][v4]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:723 ../src/propertydlg.cpp:726
+#, c-format
+msgid "%s[%s:%d][v4a]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:731 ../src/propertydlg.cpp:734
+msgid "][v4a]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:745 ../src/propertydlg.cpp:748
+#, c-format
+msgid "%s[%s:%d][v5]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:753 ../src/propertydlg.cpp:756
+msgid "][v5]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:765 ../src/mgnewtaskdlg.cpp:785
+#: ../src/propertydlg.cpp:768 ../src/propertydlg.cpp:788
+#, c-format
+msgid "%s[%s:%d]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:773 ../src/mgnewtaskdlg.cpp:793
+#: ../src/propertydlg.cpp:776 ../src/propertydlg.cpp:796
+msgid "]"
+msgstr ""
+
+#: ../src/mgnewtaskdlg.cpp:808 ../src/propertydlg.cpp:811
+msgid "no socks proxy preseted"
+msgstr "无预设SOCKS代理服务器"
+
+#: ../src/mgnewtaskdlg.cpp:813 ../src/propertydlg.cpp:816
+msgid "no ftp proxy preseted"
+msgstr "无预设FTP代理服务器"
+
+#: ../src/mgnewtaskdlg.cpp:818 ../src/propertydlg.cpp:821
+msgid "no http proxy preseted"
+msgstr "无预设HTTP代理服务器"
+
+#: ../src/mgsingletask.cpp:219
+msgid "Job running..."
+msgstr "任务运行中..."
+
+#: ../src/mgsingletask.cpp:234
+msgid "Analysis URL..."
+msgstr "分析URL..."
+
+#: ../src/mgsingletask.cpp:238 ../src/mgsingletask.cpp:410
+msgid "Not a support URL type."
+msgstr "不支持的URL地址"
+
+#: ../src/mgsingletask.cpp:243
+msgid "URL OK."
+msgstr "URL正确。"
+
+#: ../src/mgsingletask.cpp:258
+msgid "Main URL is ftp type."
+msgstr "主URL是FTP地址。"
+
+#: ../src/mgsingletask.cpp:271 ../src/mgsingletask.cpp:341
+msgid "Task will use socks proxy."
+msgstr "任务将使用SOCKSd代理服务器。"
+
+#: ../src/mgsingletask.cpp:278
+msgid "Task will use ftp proxy."
+msgstr "任务将使用FTP代理服务器。"
+
+#. error when get info. 2006/09/21
+#. error when get info.
+#: ../src/mgsingletask.cpp:287 ../src/mgsingletask.cpp:355
+msgid "Get file info error."
+msgstr "获取文件信息错误。"
+
+#: ../src/mgsingletask.cpp:309 ../src/mgsingletask.cpp:402
+msgid "No file length got."
+msgstr "无法获取文件长度"
+
+#: ../src/mgsingletask.cpp:314
+msgid "Server cannot support resume method."
+msgstr "服务器不支持续传方法。"
+
+#. http
+#: ../src/mgsingletask.cpp:326
+msgid "Main URL is http type."
+msgstr "主URL是FTP地址。"
+
+#: ../src/mgsingletask.cpp:348
+msgid "Task will use http proxy."
+msgstr "任务将使用HTTP代理服务器。"
+
+#. other lang goes here
+#: ../src/mgstring.cpp:139
+msgid "no lang"
+msgstr ""
+
+#: ../src/propertydlg.cpp:54
+msgid "Task properties"
+msgstr "任务属性"
+
+#: ../src/proxydlg.cpp:69 ../src/taskdetailreport.cpp:34
+#: ../src/taskdetailreport.cpp:271
+msgid "Name"
+msgstr "名称"
+
+#: ../src/proxydlg.cpp:101
+msgid "User"
+msgstr "用户"
+
+#: ../src/proxydlg.cpp:109
+msgid "Password"
+msgstr "口令"
+
+#: ../src/proxydlg.cpp:135
+msgid "Del Proxy"
+msgstr "删除代理"
+
+#: ../src/proxydlg.cpp:173
+msgid "args error."
+msgstr "参数错误"
+
+#: ../src/proxydlg.cpp:180
+msgid "add proxy fail,maybe have same name."
+msgstr "添加代理失败，也许存在同名"
+
+#: ../src/proxydlg.cpp:198
+msgid "no select item"
+msgstr "没有选中的条目"
+
+#: ../src/proxydlg.cpp:219
+msgid ","
+msgstr ""
+
+#: ../src/proxydlg.cpp:222
+msgid "Delete below?\n"
+msgstr "删除下面的？\n"
+
+#: ../src/proxydlg.cpp:223
+msgid "cap"
+msgstr ""
+
+#: ../src/proxydlg.cpp:258
+msgid "socks auto"
+msgstr ""
+
+#: ../src/proxydlg.cpp:262
+msgid "socks v4"
+msgstr ""
+
+#: ../src/proxydlg.cpp:266
+msgid "socks v4a"
+msgstr ""
+
+#: ../src/proxydlg.cpp:270
+msgid "socks v5"
+msgstr ""
+
+#: ../src/proxydlg.cpp:282
+msgid "unknow"
+msgstr "未知"
+
+#: ../src/righttree.cpp:93 ../src/righttree.cpp:172 ../src/righttree.cpp:191
+#: ../src/righttree.cpp:298
+msgid "Information"
+msgstr "信息"
+
+#: ../src/righttree.cpp:109 ../src/righttree.cpp:203
+msgid "Pioneer"
+msgstr "先锋"
+
+#: ../src/righttree.cpp:113 ../src/righttree.cpp:215
+msgid "File Info"
+msgstr "文件信息"
+
+#: ../src/righttree.cpp:117 ../src/righttree.cpp:227
+#: ../src/taskdetailreport.cpp:157 ../src/taskdetailreport.cpp:288
+#: ../src/tasklist.cpp:87 ../src/tasklist.cpp:467
+msgid "Progress"
+msgstr "进度"
+
+#: ../src/righttree.cpp:141 ../src/righttree.cpp:242
+#, c-format
+msgid "Thread%d"
+msgstr "线程%d"
+
+#: ../src/righttree.cpp:148 ../src/righttree.cpp:309
+msgid "Detail"
+msgstr "详细"
+
+#: ../src/righttree.cpp:152 ../src/righttree.cpp:320
+msgid "Log"
+msgstr "日志"
+
+#. 菜单开始
+#: ../src/showtablewindow.cpp:168
+msgid "Block Size"
+msgstr "块大小"
+
+#: ../src/showtablewindow.cpp:170
+msgid "8K/Block"
+msgstr "8K/块"
+
+#: ../src/showtablewindow.cpp:171
+msgid "16K/Block"
+msgstr "16K/块"
+
+#: ../src/showtablewindow.cpp:172
+msgid "32K/Block"
+msgstr "32K/块"
+
+#: ../src/showtablewindow.cpp:173
+msgid "64K/Block"
+msgstr "64K/块"
+
+#: ../src/showtablewindow.cpp:174
+msgid "128K/Block"
+msgstr "128K/块"
+
+#: ../src/showtablewindow.cpp:175
+msgid "256K/Block"
+msgstr "256K/块"
+
+#: ../src/showtablewindow.cpp:176
+msgid "512K/Block"
+msgstr "512K/块"
+
+#: ../src/showtablewindow.cpp:177
+msgid "1M/Block"
+msgstr "1M/块"
+
+#: ../src/showtablewindow.cpp:178
+msgid "2M/Block"
+msgstr "2M/块"
+
+#: ../src/showtablewindow.cpp:179
+msgid "4M/Block"
+msgstr "4M/块"
+
+#: ../src/systray.cpp:153
+msgid "Show/Hide MultiGet"
+msgstr "显示/隐藏飞箭主窗口"
+
+#: ../src/systray.cpp:160
+msgid "Show Drop Window"
+msgstr "显示悬浮窗口"
+
+#: ../src/systray.cpp:163
+msgid "Start All"
+msgstr "开始所有"
+
+#: ../src/systray.cpp:164
+msgid "Stop All"
+msgstr "停止所有"
+
+#: ../src/systray.cpp:181
+msgid "5MB/s"
+msgstr ""
+
+#: ../src/systray.cpp:182
+msgid "2MB/s"
+msgstr ""
+
+#: ../src/systray.cpp:183
+msgid "1MB/s"
+msgstr ""
+
+#: ../src/systray.cpp:184
+msgid "700KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:185
+msgid "500KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:186
+msgid "400KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:187
+msgid "300KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:188
+msgid "200KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:189
+msgid "100KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:190
+msgid "50KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:191
+msgid "20KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:192
+msgid "10KB/s"
+msgstr ""
+
+#: ../src/systray.cpp:194
+msgid "Speed Mode"
+msgstr "速度模式"
+
+#: ../src/taskdetailreport.cpp:38 ../src/taskdetailreport.cpp:275
+msgid "Value"
+msgstr "值"
+
+#: ../src/taskdetailreport.cpp:75 ../src/taskdetailreport.cpp:279
+msgid "Task ID"
+msgstr "任务编号"
+
+#: ../src/taskdetailreport.cpp:79 ../src/taskdetailreport.cpp:280
+#: ../src/tasklist.cpp:103 ../src/tasklist.cpp:483
+msgid "Main URL"
+msgstr "主URL"
+
+#: ../src/taskdetailreport.cpp:83 ../src/taskdetailreport.cpp:281
+msgid "Number of mirror URL"
+msgstr "镜像地址数"
+
+#: ../src/taskdetailreport.cpp:87 ../src/taskdetailreport.cpp:282
+msgid "Task Status"
+msgstr "任务状态"
+
+#: ../src/taskdetailreport.cpp:101
+msgid "Waiting"
+msgstr "等待中"
+
+#: ../src/taskdetailreport.cpp:123 ../src/taskdetailreport.cpp:153
+#: ../src/taskdetailreport.cpp:287 ../src/tasklist.cpp:83
+#: ../src/tasklist.cpp:463
+msgid "Completed"
+msgstr "完成"
+
+#: ../src/taskdetailreport.cpp:137 ../src/taskdetailreport.cpp:283
+msgid "Thread Numbers"
+msgstr "线程数"
+
+#: ../src/taskdetailreport.cpp:141 ../src/taskdetailreport.cpp:284
+msgid "Save Path"
+msgstr "保存路径"
+
+#: ../src/taskdetailreport.cpp:145 ../src/taskdetailreport.cpp:285
+#: ../src/tasklist.cpp:76 ../src/tasklist.cpp:455
+msgid "File Name"
+msgstr "文件名"
+
+#: ../src/taskdetailreport.cpp:149 ../src/taskdetailreport.cpp:286
+#: ../src/tasklist.cpp:79 ../src/tasklist.cpp:459
+msgid "Size"
+msgstr "大小"
+
+#: ../src/taskdetailreport.cpp:150 ../src/taskdetailreport.cpp:154
+#: ../src/tasklist.cpp:291 ../src/tasklist.cpp:295 ../src/tasklist.cpp:394
+#: ../src/tasklist.cpp:398
+#, c-format
+msgid "%lld"
+msgstr ""
+
+#: ../src/taskdetailreport.cpp:158
+#, c-format
+msgid "%0.4f%%"
+msgstr ""
+
+#: ../src/taskdetailreport.cpp:161 ../src/taskdetailreport.cpp:289
+#: ../src/tasklist.cpp:91 ../src/tasklist.cpp:471
+msgid "Speed"
+msgstr "速度"
+
+#: ../src/taskdetailreport.cpp:162
+#, c-format
+msgid "%d bytes/s"
+msgstr ""
+
+#: ../src/taskdetailreport.cpp:165 ../src/taskdetailreport.cpp:290
+msgid "Error times"
+msgstr "错误次数"
+
+#: ../src/taskdetailreport.cpp:170 ../src/taskdetailreport.cpp:291
+msgid "SOCKS Proxy"
+msgstr "SOCKS代理"
+
+#: ../src/taskdetailreport.cpp:174 ../src/taskdetailreport.cpp:183
+#: ../src/taskdetailreport.cpp:192 ../src/taskdetailreport.cpp:206
+msgid "none"
+msgstr "无"
+
+#: ../src/taskdetailreport.cpp:178 ../src/taskdetailreport.cpp:292
+msgid "FTP Proxy"
+msgstr "FTP代理"
+
+#: ../src/taskdetailreport.cpp:187 ../src/taskdetailreport.cpp:293
+msgid "HTTP Proxy"
+msgstr "HTTP代理"
+
+#: ../src/taskdetailreport.cpp:197 ../src/taskdetailreport.cpp:294
+msgid "MD5 sum auto check"
+msgstr "自动检查MD5校验值"
+
+#: ../src/taskdetailreport.cpp:198
+msgid "YES"
+msgstr "是"
+
+#: ../src/taskdetailreport.cpp:198
+msgid "NO"
+msgstr "否"
+
+#: ../src/taskdetailreport.cpp:201 ../src/taskdetailreport.cpp:295
+msgid "MD5 sum"
+msgstr "MD5校验值"
+
+#: ../src/tasklist.cpp:95 ../src/tasklist.cpp:475
+msgid "Time Left"
+msgstr "剩余时间"
+
+#: ../src/tasklist.cpp:299 ../src/tasklist.cpp:402
+#, c-format
+msgid "%0.2f%%"
+msgstr ""
+
+#: ../src/tasklist.cpp:303 ../src/tasklist.cpp:406
+#, c-format
+msgid "%dKB/S"
+msgstr ""
+
+#: ../src/tasklist.cpp:436
+#, c-format
+msgid "%d day"
+msgstr "%d 天"
+
+#: ../src/tasklist.cpp:442
+#, c-format
+msgid "%02dh:%02dm:%02ds"
+msgstr "%02d小时%02d分钟:%02d秒"
+
+#: ../src/tasklist.cpp:517 ../src/tasklist.cpp:524 ../src/tasklist.cpp:531
+#: ../src/tasklist.cpp:540 ../src/tasklist.cpp:549
+msgid "help"
+msgstr "帮助"
+
+#: ../src/tasklist.cpp:540
+msgid "Redonwload task"
+msgstr "重新下载任务"
+
+#: ../src/threadinfowindow.cpp:50
+msgid "Send/Recv message"
+msgstr "发送/接收 消息"
+
+#: ../src/threadinfowindow.cpp:119 ../src/threadinfowindow.cpp:178
+msgid "%H:%M:%S "
+msgstr ""
+
+#: ../src/threadinfowindow.cpp:121 ../src/threadinfowindow.cpp:180
+msgid "%T "
+msgstr ""

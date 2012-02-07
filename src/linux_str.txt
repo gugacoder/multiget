@@ -1,0 +1,1496 @@
+//you can add your language translation here by refering to english
+	
+	m_SA[DE_DE_UTF_8][_S_APP_NAME]="MultiGet file downloader";
+        m_SA[PT_BR_UTF_8][_S_APP_NAME]="MultiGet gerenciador de download";       
+	m_SA[EN_US_UTF_8][_S_APP_NAME]="MultiGet file downloader";
+	m_SA[ZH_CN_UTF_8][_S_APP_NAME]="MultiGet文件下载器";
+	m_SA[ZH_TW_UTF_8][_S_APP_NAME]="MultiGet文件下載器";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_FILE]="Datei(&F)";
+        m_SA[PT_BR_UTF_8][_S_MENU_FILE]="Arquivo(&F)";       
+	m_SA[EN_US_UTF_8][_S_MENU_FILE]="File(&F)";
+	m_SA[ZH_CN_UTF_8][_S_MENU_FILE]="文件(&F)";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_FILE]="文件(&F)";		
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_FILE_QUIT]="Beenden\tCtrl+Q";
+        m_SA[PT_BR_UTF_8][_S_MENU_FILE_QUIT]="Sair\tCtrl+Q";        
+	m_SA[EN_US_UTF_8][_S_MENU_FILE_QUIT]="Quit\tCtrl+Q";
+	m_SA[ZH_CN_UTF_8][_S_MENU_FILE_QUIT]="退出\tCtrl+Q";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_FILE_QUIT]="退出\tCtrl+Q";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK]="Download(&T)";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK]="Tarefa(&T)";         
+	m_SA[EN_US_UTF_8][_S_MENU_TASK]="Task(&T)";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK]="任务(&T)";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK]="任務(&T)";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_NEW]="Neu\tCtrl+N";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_NEW]="Novo\tCtrl+N";       
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_NEW]="New\tCtrl+N";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_NEW]="新建\tCtrl+N";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_NEW]="新建\tCtrl+N";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_START]="Starten\tCtrl+G";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_START]="Iniciar\tCtrl+G";        
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_START]="Start\tCtrl+G";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_START]="开始\tCtrl+G";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_START]="開始\tCtrl+G";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_PAUSE]="Anhalten\tCtrl+P";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_PAUSE]="Pausa\tCtrl+P";       
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_PAUSE]="Pause\tCtrl+P";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_PAUSE]="暂停\tCtrl+P";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_PAUSE]="暫停\tCtrl+P";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_DELETE]="Löschen\tDel";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_DELETE]="Apagar\tDel";       
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_DELETE]="Delete\tDel";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_DELETE]="删除\tDel";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_DELETE]="刪除\tDel";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_MOVEUP]="Nach oben\tCtrl+U";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_MOVEUP]="Mover Acima\tCtrl+U";        
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_MOVEUP]="MoveUp\tCtrl+U";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_MOVEUP]="上移\tCtrl+U";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_MOVEUP]="上移\tCtrl+U";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_MOVEDOWN]="Nach unten\tCtrl+D";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_MOVEDOWN]="Mover Abaixo\tCtrl+D";       
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_MOVEDOWN]="MoveDown\tCtrl+D";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_MOVEDOWN]="下移\tCtrl+D";			
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_MOVEDOWN]="下移\tCtrl+D";		
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_ADDTHREAD]="Teil hinzufügen\tCtrl++";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_ADDTHREAD]="+Partes\tCtrl++";       
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_ADDTHREAD]="+Thread\tCtrl++";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_ADDTHREAD]="增线程\tCtrl++";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_ADDTHREAD]="增線程\tCtrl++";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_SUBTHREAD]="Teil wegnehmen\tCtrl+-";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_SUBTHREAD]="-Partes\tCtrl+-";       
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_SUBTHREAD]="-Thread\tCtrl+-";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_SUBTHREAD]="减线程\tCtrl+-";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_SUBTHREAD]="減線程\tCtrl+-";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_TASK_RELOAD]="Erneut Herunterladen";
+        m_SA[PT_BR_UTF_8][_S_MENU_TASK_RELOAD]="Redownload";        
+	m_SA[EN_US_UTF_8][_S_MENU_TASK_RELOAD]="Redownload";
+	m_SA[ZH_CN_UTF_8][_S_MENU_TASK_RELOAD]="重新下载";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_TASK_RELOAD]="重新下載";		
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_OPTION_CONFIG]="Einstellungen\tCtrl+S";
+        m_SA[PT_BR_UTF_8][_S_MENU_OPTION_CONFIG]="Opções\tCtrl+S";       
+	m_SA[EN_US_UTF_8][_S_MENU_OPTION_CONFIG]="Settings\tCtrl+S";
+	m_SA[ZH_CN_UTF_8][_S_MENU_OPTION_CONFIG]="参数设置\tCtrl+S";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_OPTION_CONFIG]="參數設置\tCtrl+S";	
+
+	m_SA[DE_DE_UTF_8][_S_MENU_OPTION_PROXYCONFIG]="Proxy Admin\tCtrl+T";
+        m_SA[PT_BR_UTF_8][_S_MENU_OPTION_PROXYCONFIG]="Administração de Proxy\tCtrl+T";       
+	m_SA[EN_US_UTF_8][_S_MENU_OPTION_PROXYCONFIG]="Proxy Admin\tCtrl+T";
+	m_SA[ZH_CN_UTF_8][_S_MENU_OPTION_PROXYCONFIG]="代理设置\tCtrl+T";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_OPTION_PROXYCONFIG]="代理設置\tCtrl+T";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_HELP]="Hilfe(&H)";
+        m_SA[PT_BR_UTF_8][_S_MENU_HELP]="Ajuda(&H)";       
+	m_SA[EN_US_UTF_8][_S_MENU_HELP]="Help(&H)";
+	m_SA[ZH_CN_UTF_8][_S_MENU_HELP]="帮助(&H)";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_HELP]="幫助(&H)";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_HELP_ABOUT]="Über\tCtrl+O";
+        m_SA[PT_BR_UTF_8][_S_MENU_HELP_ABOUT]="Sobre\tCtrl+O";       
+	m_SA[EN_US_UTF_8][_S_MENU_HELP_ABOUT]="About\tCtrl+O";
+	m_SA[ZH_CN_UTF_8][_S_MENU_HELP_ABOUT]="关于\tCtrl+O";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_HELP_ABOUT]="關於\tCtrl+O";
+	
+	m_SA[DE_DE_UTF_8][_S_FINISH]="Erfolgreich beendet";
+        m_SA[PT_BR_UTF_8][_S_FINISH]="Completado";       
+	m_SA[EN_US_UTF_8][_S_FINISH]="Completed";
+	m_SA[ZH_CN_UTF_8][_S_FINISH]="已完成";	
+	m_SA[ZH_TW_UTF_8][_S_FINISH]="已完成";	
+	
+	m_SA[DE_DE_UTF_8][_S_RUNNINGTASK]="Läuft";
+        m_SA[PT_BR_UTF_8][_S_RUNNINGTASK]="Em Execução";       
+	m_SA[EN_US_UTF_8][_S_RUNNINGTASK]="Running";
+	m_SA[ZH_CN_UTF_8][_S_RUNNINGTASK]="运行任务";	
+	m_SA[ZH_TW_UTF_8][_S_RUNNINGTASK]="運行任務";	
+	
+	m_SA[DE_DE_UTF_8][_S_FAILEDTASK]="Fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_FAILEDTASK]="Falhado";       
+	m_SA[EN_US_UTF_8][_S_FAILEDTASK]="Failed";
+	m_SA[ZH_CN_UTF_8][_S_FAILEDTASK]="失败任务";	
+	m_SA[ZH_TW_UTF_8][_S_FAILEDTASK]="失敗任務";	
+	
+	m_SA[DE_DE_UTF_8][_S_FINISHTASK]="Beendet";
+        m_SA[PT_BR_UTF_8][_S_FINISHTASK]="Terminado";       
+	m_SA[EN_US_UTF_8][_S_FINISHTASK]="Finish";
+	m_SA[ZH_CN_UTF_8][_S_FINISHTASK]="完成任务";	
+	m_SA[ZH_TW_UTF_8][_S_FINISHTASK]="完成任務";	
+	
+	m_SA[DE_DE_UTF_8][_S_PAUSETASK]="Pause";
+        m_SA[PT_BR_UTF_8][_S_PAUSETASK]="Pausa";       
+	m_SA[EN_US_UTF_8][_S_PAUSETASK]="Pause";
+	m_SA[ZH_CN_UTF_8][_S_PAUSETASK]="暂停任务";	
+	m_SA[ZH_TW_UTF_8][_S_PAUSETASK]="暫停任務";	
+	
+	m_SA[DE_DE_UTF_8][_S_SOFTWARE]="Software";
+        m_SA[PT_BR_UTF_8][_S_SOFTWARE]="Software";       
+	m_SA[EN_US_UTF_8][_S_SOFTWARE]="Software";
+	m_SA[ZH_CN_UTF_8][_S_SOFTWARE]="软件";	
+	m_SA[ZH_TW_UTF_8][_S_SOFTWARE]="軟体";	
+	
+	m_SA[DE_DE_UTF_8][_S_PACKET]="Paket";
+        m_SA[PT_BR_UTF_8][_S_PACKET]="Pacotes";       
+	m_SA[EN_US_UTF_8][_S_PACKET]="Package";
+	m_SA[ZH_CN_UTF_8][_S_PACKET]="压缩包";	
+	m_SA[ZH_TW_UTF_8][_S_PACKET]="壓縮包";	
+	
+	m_SA[DE_DE_UTF_8][_S_MUSIC]="Musik";
+        m_SA[PT_BR_UTF_8][_S_MUSIC]="Músicas";        
+	m_SA[EN_US_UTF_8][_S_MUSIC]="Music";
+	m_SA[ZH_CN_UTF_8][_S_MUSIC]="音乐";	
+	m_SA[ZH_TW_UTF_8][_S_MUSIC]="音樂";	
+	
+	m_SA[DE_DE_UTF_8][_S_IMAGE]="Bild";
+        m_SA[PT_BR_UTF_8][_S_IMAGE]="Imagens";       
+	m_SA[EN_US_UTF_8][_S_IMAGE]="Image";
+	m_SA[ZH_CN_UTF_8][_S_IMAGE]="光盘映象";	
+	m_SA[ZH_TW_UTF_8][_S_IMAGE]="光盤映像";	
+	
+	m_SA[DE_DE_UTF_8][_S_MOVIE]="Film";
+        m_SA[PT_BR_UTF_8][_S_MOVIE]="Filmes";       
+	m_SA[EN_US_UTF_8][_S_MOVIE]="Movie";
+	m_SA[ZH_CN_UTF_8][_S_MOVIE]="电影";	
+	m_SA[ZH_TW_UTF_8][_S_MOVIE]="電影";	
+	
+	m_SA[DE_DE_UTF_8][_S_PUBLISH]="Veröffentlichung";
+        m_SA[PT_BR_UTF_8][_S_PUBLISH]="Publicações";       
+	m_SA[EN_US_UTF_8][_S_PUBLISH]="Publish";
+	m_SA[ZH_CN_UTF_8][_S_PUBLISH]="出版";	
+	m_SA[ZH_TW_UTF_8][_S_PUBLISH]="出版";
+	
+	m_SA[DE_DE_UTF_8][_S_PICTURE]="Bild";
+        m_SA[PT_BR_UTF_8][_S_PICTURE]="Fotos";       
+	m_SA[EN_US_UTF_8][_S_PICTURE]="Picture";
+	m_SA[ZH_CN_UTF_8][_S_PICTURE]="图片"; 
+        m_SA[ZH_TW_UTF_8][_S_PICTURE]="圖片";
+	
+	m_SA[DE_DE_UTF_8][_S_UNKNOW]="Unbekannt";
+        m_SA[PT_BR_UTF_8][_S_UNKNOW]="Desconhecidos";       
+	m_SA[EN_US_UTF_8][_S_UNKNOW]="Unknown";
+	m_SA[ZH_CN_UTF_8][_S_UNKNOW]="未知";	
+	m_SA[ZH_TW_UTF_8][_S_UNKNOW]="未知";	
+	
+	m_SA[DE_DE_UTF_8][_S_DELETED]="Mülleimer";
+        m_SA[PT_BR_UTF_8][_S_DELETED]="Lixo";       
+	m_SA[EN_US_UTF_8][_S_DELETED]="Trash";
+	m_SA[ZH_CN_UTF_8][_S_DELETED]="回收站";	
+	m_SA[ZH_TW_UTF_8][_S_DELETED]="垃圾桶";
+	
+	m_SA[DE_DE_UTF_8][_S_FILENAME]="Datei Name";
+        m_SA[PT_BR_UTF_8][_S_FILENAME]="Nome do Arquivo";       
+	m_SA[EN_US_UTF_8][_S_FILENAME]="File Name";
+	m_SA[ZH_CN_UTF_8][_S_FILENAME]="文件名";	
+	m_SA[ZH_TW_UTF_8][_S_FILENAME]="檔案名稱";	
+	
+	m_SA[DE_DE_UTF_8][_S_SIZE]="Größe";
+        m_SA[PT_BR_UTF_8][_S_SIZE]="Tamanho";       
+	m_SA[EN_US_UTF_8][_S_SIZE]="Size";
+	m_SA[ZH_CN_UTF_8][_S_SIZE]="大小";	
+	m_SA[ZH_TW_UTF_8][_S_SIZE]="大小";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROGRESS]="Fortschritt";
+        m_SA[PT_BR_UTF_8][_S_PROGRESS]="Progresso";       
+	m_SA[EN_US_UTF_8][_S_PROGRESS]="Progress";
+	m_SA[ZH_CN_UTF_8][_S_PROGRESS]="进度";	
+	m_SA[ZH_TW_UTF_8][_S_PROGRESS]="進度";	
+	
+	m_SA[DE_DE_UTF_8][_S_SPEED]="Geschwindigkeit";
+        m_SA[PT_BR_UTF_8][_S_SPEED]="Velocidade";	
+        m_SA[EN_US_UTF_8][_S_SPEED]="Speed";
+	m_SA[ZH_CN_UTF_8][_S_SPEED]="速度";	
+	m_SA[ZH_TW_UTF_8][_S_SPEED]="速度";	
+	
+	m_SA[DE_DE_UTF_8][_S_LEFTTIME]="Verbleibende Zeit";
+        m_SA[PT_BR_UTF_8][_S_LEFTTIME]="Tempo Restante";       
+	m_SA[EN_US_UTF_8][_S_LEFTTIME]="Time Left";
+	m_SA[ZH_CN_UTF_8][_S_LEFTTIME]="剩余时间";		
+	m_SA[ZH_TW_UTF_8][_S_LEFTTIME]="剩餘時間";	
+	
+	m_SA[DE_DE_UTF_8][_S_RETRY]="Erneut versuchen";
+        m_SA[PT_BR_UTF_8][_S_RETRY]="Retentar";       
+	m_SA[EN_US_UTF_8][_S_RETRY]="Retry";
+	m_SA[ZH_CN_UTF_8][_S_RETRY]="重试";	
+	m_SA[ZH_TW_UTF_8][_S_RETRY]="重試";	
+	
+	m_SA[DE_DE_UTF_8][_S_URL]="Haupt URL";
+        m_SA[PT_BR_UTF_8][_S_URL]="URL Principal";       
+	m_SA[EN_US_UTF_8][_S_URL]="Main URL";
+	m_SA[ZH_CN_UTF_8][_S_URL]="主地址";	
+	m_SA[ZH_TW_UTF_8][_S_URL]="主地址";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_MIRRORURL]="Mirrors:";
+        m_SA[PT_BR_UTF_8][_S_NEW_MIRRORURL]="Espelhos:";       
+	m_SA[EN_US_UTF_8][_S_NEW_MIRRORURL]="Mirrors:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_MIRRORURL]="镜像地址:";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_MIRRORURL]="境像地址";	
+	
+	m_SA[DE_DE_UTF_8][_S_INFORMATION]="Info";
+        m_SA[PT_BR_UTF_8][_S_INFORMATION]="Informações";       
+	m_SA[EN_US_UTF_8][_S_INFORMATION]="Info";
+	m_SA[ZH_CN_UTF_8][_S_INFORMATION]="信息";
+	m_SA[ZH_TW_UTF_8][_S_INFORMATION]="訊息";
+	
+	m_SA[DE_DE_UTF_8][_S_PIONEER]="Pioneer";
+        m_SA[PT_BR_UTF_8][_S_PIONEER]="Registro";       
+	m_SA[EN_US_UTF_8][_S_PIONEER]="Pioneer";
+	m_SA[ZH_CN_UTF_8][_S_PIONEER]="先锋反馈";
+	m_SA[ZH_TW_UTF_8][_S_PIONEER]="先鋒反饋";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEINFO]="Datei Info";
+        m_SA[PT_BR_UTF_8][_S_FILEINFO]="Informações do Arquivo";        
+	m_SA[EN_US_UTF_8][_S_FILEINFO]="File Info";
+	m_SA[ZH_CN_UTF_8][_S_FILEINFO]="文件信息";
+	m_SA[ZH_TW_UTF_8][_S_FILEINFO]="文件訊息";
+	
+	m_SA[DE_DE_UTF_8][_S_THREAD]="Teil%d";
+        m_SA[PT_BR_UTF_8][_S_THREAD]="Partes%d";       
+	m_SA[EN_US_UTF_8][_S_THREAD]="Thread%d";
+	m_SA[ZH_CN_UTF_8][_S_THREAD]="线程%d";
+	m_SA[ZH_TW_UTF_8][_S_THREAD]="線程%d";
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL]="Detail";
+        m_SA[PT_BR_UTF_8][_S_DETAIL]="Detalhes";       
+	m_SA[EN_US_UTF_8][_S_DETAIL]="Detail";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL]="详细信息";
+	m_SA[ZH_TW_UTF_8][_S_DETAIL]="詳細訊息";
+	
+	m_SA[DE_DE_UTF_8][_S_VALUE]="Wert";
+        m_SA[PT_BR_UTF_8][_S_VALUE]="Valor";       
+	m_SA[EN_US_UTF_8][_S_VALUE]="Value";
+	m_SA[ZH_CN_UTF_8][_S_VALUE]="值";
+	m_SA[ZH_TW_UTF_8][_S_VALUE]="值";
+	
+	m_SA[DE_DE_UTF_8][_S_NAME]="Name";
+        m_SA[PT_BR_UTF_8][_S_NAME]="Nome";       
+	m_SA[EN_US_UTF_8][_S_NAME]="Name";
+	m_SA[ZH_CN_UTF_8][_S_NAME]="名称";
+	m_SA[ZH_TW_UTF_8][_S_NAME]="名稱";
+	
+	m_SA[DE_DE_UTF_8][_S_TASKID]="DownloadID";
+        m_SA[PT_BR_UTF_8][_S_TASKID]="ID da Tarefa";       
+	m_SA[EN_US_UTF_8][_S_TASKID]="TaskID";
+	m_SA[ZH_CN_UTF_8][_S_TASKID]="任务编号";	
+	m_SA[ZH_TW_UTF_8][_S_TASKID]="任務編號";	
+	
+	m_SA[DE_DE_UTF_8][_S_TASKSTATUS]="Download Status";
+        m_SA[PT_BR_UTF_8][_S_TASKSTATUS]="Situação da Tarefa";       
+	m_SA[EN_US_UTF_8][_S_TASKSTATUS]="Task Status";
+	m_SA[ZH_CN_UTF_8][_S_TASKSTATUS]="任务状态";
+	m_SA[ZH_TW_UTF_8][_S_TASKSTATUS]="任務狀態";
+	
+	m_SA[DE_DE_UTF_8][_S_THREADNUM]="Teil Number";
+        m_SA[PT_BR_UTF_8][_S_THREADNUM]="Número da parte";       
+	m_SA[EN_US_UTF_8][_S_THREADNUM]="Thread Number";
+	m_SA[ZH_CN_UTF_8][_S_THREADNUM]="线程数量";
+	m_SA[ZH_TW_UTF_8][_S_THREADNUM]="線程數量";
+	
+	m_SA[DE_DE_UTF_8][_S_AUTOCHECKMD5]="MD5 autocheck";
+        m_SA[PT_BR_UTF_8][_S_AUTOCHECKMD5]="Verificação automática do MD5";   
+	m_SA[EN_US_UTF_8][_S_AUTOCHECKMD5]="MD5 autocheck";
+	m_SA[ZH_CN_UTF_8][_S_AUTOCHECKMD5]="自动校验MD5";
+	m_SA[ZH_TW_UTF_8][_S_AUTOCHECKMD5]="自動校驗MD5";
+	
+	m_SA[DE_DE_UTF_8][_S_ERRORTIME]="Anzahl Fehler";
+        m_SA[PT_BR_UTF_8][_S_ERRORTIME]="Número de Erros";       
+	m_SA[EN_US_UTF_8][_S_ERRORTIME]="Error Times";
+	m_SA[ZH_CN_UTF_8][_S_ERRORTIME]="错误次数";	
+	m_SA[ZH_TW_UTF_8][_S_ERRORTIME]="錯誤次數";	
+	
+	m_SA[DE_DE_UTF_8][_S_RUNNING]="Laufend";
+        m_SA[PT_BR_UTF_8][_S_RUNNING]="Em Execução";       
+	m_SA[EN_US_UTF_8][_S_RUNNING]="Running";
+	m_SA[ZH_CN_UTF_8][_S_RUNNING]="运行中";
+	m_SA[ZH_TW_UTF_8][_S_RUNNING]="運行中";
+	
+	m_SA[DE_DE_UTF_8][_S_WAITING]="Wartend";
+        m_SA[PT_BR_UTF_8][_S_WAITING]="Aguardando";       
+	m_SA[EN_US_UTF_8][_S_WAITING]="Waiting";
+	m_SA[ZH_CN_UTF_8][_S_WAITING]="等待中";
+	m_SA[ZH_TW_UTF_8][_S_WAITING]="等待中";
+	
+	m_SA[DE_DE_UTF_8][_S_WRONG]="Falsch";
+        m_SA[PT_BR_UTF_8][_S_WRONG]="Erro";       
+	m_SA[EN_US_UTF_8][_S_WRONG]="Wrong";
+	m_SA[ZH_CN_UTF_8][_S_WRONG]="错误";
+	m_SA[ZH_TW_UTF_8][_S_WRONG]="錯誤";
+	
+	m_SA[DE_DE_UTF_8][_S_SPEEDMODE]="Geschwindigkeitsmodus";
+        m_SA[PT_BR_UTF_8][_S_SPEEDMODE]="Modo da Velocidade";       
+	m_SA[EN_US_UTF_8][_S_SPEEDMODE]="Speed Mode";
+	m_SA[ZH_CN_UTF_8][_S_SPEEDMODE]="速度模式";	
+	m_SA[ZH_TW_UTF_8][_S_SPEEDMODE]="速度模式";
+	
+	m_SA[DE_DE_UTF_8][_S_OPTION]="Option";
+        m_SA[PT_BR_UTF_8][_S_OPTION]="Opções";       
+	m_SA[EN_US_UTF_8][_S_OPTION]="Option";
+	m_SA[ZH_CN_UTF_8][_S_OPTION]="选项";
+	m_SA[ZH_TW_UTF_8][_S_OPTION]="選項";
+	
+	m_SA[DE_DE_UTF_8][_S_VERSION]="Version: 1.1.4 [2007/03/07]";
+        m_SA[PT_BR_UTF_8][_S_VERSION]="Versão: 1.1.4 [2007/03/07]";       
+	m_SA[EN_US_UTF_8][_S_VERSION]="Version: 1.1.4 [2007/03/07]";
+	m_SA[ZH_CN_UTF_8][_S_VERSION]="版本：1.1.4 [2007/03/07]";
+	m_SA[ZH_TW_UTF_8][_S_VERSION]="版本：1.1.4 [2007/03/07]";
+	
+	m_SA[DE_DE_UTF_8][_S_CANCEL]="Abbrechen";
+        m_SA[PT_BR_UTF_8][_S_CANCEL]="Cancela";       
+	m_SA[EN_US_UTF_8][_S_CANCEL]="Cancel";
+	m_SA[ZH_CN_UTF_8][_S_CANCEL]="取消";
+	m_SA[ZH_TW_UTF_8][_S_CANCEL]="取消";
+	
+	m_SA[DE_DE_UTF_8][_S_OK]="OK";
+        m_SA[PT_BR_UTF_8][_S_OK]="OK";        
+	m_SA[EN_US_UTF_8][_S_OK]="OK";
+	m_SA[ZH_CN_UTF_8][_S_OK]="确定";	
+	m_SA[ZH_TW_UTF_8][_S_OK]="确定";		
+	
+	m_SA[DE_DE_UTF_8][_S_SPEEDMODE]="Geschwindigkeitsmodus";
+        m_SA[PT_BR_UTF_8][_S_SPEEDMODE]="Modo da Velocidade";       
+	m_SA[EN_US_UTF_8][_S_SPEEDMODE]="Speed Mode";
+	m_SA[ZH_CN_UTF_8][_S_SPEEDMODE]="速度模式";
+	m_SA[ZH_TW_UTF_8][_S_SPEEDMODE]="速度模式";
+	
+	m_SA[DE_DE_UTF_8][_S_COPYRIGHT]="CopyRight(C) liubin,China";
+        m_SA[PT_BR_UTF_8][_S_COPYRIGHT]="CopyRight(C) liubin, China";       
+	m_SA[EN_US_UTF_8][_S_COPYRIGHT]="CopyRight(C) liubin,China";
+	m_SA[ZH_CN_UTF_8][_S_COPYRIGHT]="版权所有(C) liubin,China";
+	m_SA[ZH_TW_UTF_8][_S_COPYRIGHT]="版權所有(C) liubin,China";
+	
+	m_SA[DE_DE_UTF_8][_S_ABOUT_MULTIGET]="Über MultiGet";
+        m_SA[PT_BR_UTF_8][_S_ABOUT_MULTIGET]="Sobre o MultiGet";         
+	m_SA[EN_US_UTF_8][_S_ABOUT_MULTIGET]="About MultiGet";
+	m_SA[ZH_CN_UTF_8][_S_ABOUT_MULTIGET]="关于MultiGet";
+	m_SA[ZH_TW_UTF_8][_S_ABOUT_MULTIGET]="關於MultiGet";
+	
+	m_SA[DE_DE_UTF_8][_S_SYSCONFIG]="Einstellungen";
+        m_SA[PT_BR_UTF_8][_S_SYSCONFIG]="Configuração do Programa";       
+	m_SA[EN_US_UTF_8][_S_SYSCONFIG]="System Configure";
+	m_SA[ZH_CN_UTF_8][_S_SYSCONFIG]="系统设置";
+	m_SA[ZH_TW_UTF_8][_S_SYSCONFIG]="系統設定";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_JOBRUNNING]="Auftrag läuft...";
+        m_SA[PT_BR_UTF_8][_S_INFO_JOBRUNNING]="Trabalho em execução...";       
+	m_SA[EN_US_UTF_8][_S_INFO_JOBRUNNING]="Job running...";
+	m_SA[ZH_CN_UTF_8][_S_INFO_JOBRUNNING]="开始工作...";
+	m_SA[ZH_TW_UTF_8][_S_INFO_JOBRUNNING]="開始工作...";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_RESOLVING]="Resolving Server";
+        m_SA[PT_BR_UTF_8][_S_INFO_RESOLVING]="resolvendo o servidor";       
+	m_SA[EN_US_UTF_8][_S_INFO_RESOLVING]="resolving server";
+	m_SA[ZH_CN_UTF_8][_S_INFO_RESOLVING]="解析服务器地址...";
+	m_SA[ZH_TW_UTF_8][_S_INFO_RESOLVING]="解析伺服器地址...";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_SERVERIP]="Server IP=";
+        m_SA[PT_BR_UTF_8][_S_INFO_SERVERIP]="ip do servidor=";       
+	m_SA[EN_US_UTF_8][_S_INFO_SERVERIP]="server ip=";
+	m_SA[ZH_CN_UTF_8][_S_INFO_SERVERIP]="服务器ip=";
+	m_SA[ZH_TW_UTF_8][_S_INFO_SERVERIP]="服務器ip=";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_SENDQUITFAIL]="send QUIT fail";
+        m_SA[PT_BR_UTF_8][_S_INFO_SENDQUITFAIL]="falha no envio do QUIT";       
+	m_SA[EN_US_UTF_8][_S_INFO_SENDQUITFAIL]="send QUIT fail";
+	m_SA[ZH_CN_UTF_8][_S_INFO_SENDQUITFAIL]="发送 QUIT 失败";
+	m_SA[ZH_TW_UTF_8][_S_INFO_SENDQUITFAIL]="傳送 QUIT 失敗";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_SENDTYPEAFAIL]="Send TYPE A fail";
+        m_SA[PT_BR_UTF_8][_S_INFO_SENDTYPEIFAIL]="Falha no envio do TYPE A";     
+	m_SA[EN_US_UTF_8][_S_INFO_SENDTYPEAFAIL]="Send TYPE A fail";
+	m_SA[ZH_CN_UTF_8][_S_INFO_SENDTYPEAFAIL]="发送 TYPE A 失败";
+	m_SA[ZH_TW_UTF_8][_S_INFO_SENDTYPEAFAIL]="傳送 TYPE A 失敗";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_SENDTYPEIFAIL]="Send TYPE I fail";
+        m_SA[PT_BR_UTF_8][_S_INFO_SENDTYPEIFAIL]="Falha no envio do TYPE I";     
+	m_SA[EN_US_UTF_8][_S_INFO_SENDTYPEIFAIL]="Send TYPE I fail";
+	m_SA[ZH_CN_UTF_8][_S_INFO_SENDTYPEIFAIL]="发送 TYPE I 失败";
+	m_SA[ZH_TW_UTF_8][_S_INFO_SENDTYPEIFAIL]="傳送 TYPE I 失敗";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_SENDRESTFAIL]="Send REST fail";
+        m_SA[ZH_TW_UTF_8][_S_INFO_SENDRESTFAIL]="Falha no envio do REST";       
+	m_SA[EN_US_UTF_8][_S_INFO_SENDRESTFAIL]="Send REST fail";
+	m_SA[ZH_CN_UTF_8][_S_INFO_SENDRESTFAIL]="发送 REST 失败";
+	m_SA[ZH_TW_UTF_8][_S_INFO_SENDRESTFAIL]="傳送 REST 失敗";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_INVALIDLINE]="Falsche Zeile, überspringe.";
+        m_SA[PT_BR_UTF_8][_S_INFO_INVALIDLINE]="linha invalida,pulando.";       
+	m_SA[EN_US_UTF_8][_S_INFO_INVALIDLINE]="invalid line,skip it.";
+	m_SA[ZH_CN_UTF_8][_S_INFO_INVALIDLINE]="无效行，跳过";
+	m_SA[ZH_TW_UTF_8][_S_INFO_INVALIDLINE]="無效行，跳過";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_REFUSEUSER]="Benutzer zurückgewiesen!";
+        m_SA[PT_BR_UTF_8][_S_INFO_REFUSEUSER]="usuário recusado!";       
+	m_SA[EN_US_UTF_8][_S_INFO_REFUSEUSER]="refuse user!";
+	m_SA[ZH_CN_UTF_8][_S_INFO_REFUSEUSER]="拒绝用户！";
+	m_SA[ZH_TW_UTF_8][_S_INFO_REFUSEUSER]="拒絕用戶";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_NOPASSNEED]="Kein Passwort benötigt";
+        m_SA[PT_BR_UTF_8][_S_INFO_NOPASSNEED]="não é necessária senha"; 	
+        m_SA[EN_US_UTF_8][_S_INFO_NOPASSNEED]="no pass need";
+	m_SA[ZH_CN_UTF_8][_S_INFO_NOPASSNEED]="无须密码";
+	m_SA[ZH_TW_UTF_8][_S_INFO_NOPASSNEED]="無需密碼";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_INVALIDUSERORPASS]="Ungültiger Benutzer oder Passwort";
+        m_SA[PT_BR_UTF_8][_S_INFO_INVALIDUSERORPASS]="usuário ou senha inválido";       
+	m_SA[EN_US_UTF_8][_S_INFO_INVALIDUSERORPASS]="invalid user or pass";
+	m_SA[ZH_CN_UTF_8][_S_INFO_INVALIDUSERORPASS]="无效用户或口令";
+	m_SA[ZH_TW_UTF_8][_S_INFO_INVALIDUSERORPASS]="不合法的帳號或密碼";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_CTRLCONNECTFAIL]="Kontrollverbindung fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_INFO_CTRLCONNECTFAIL]="falha na conexão de controle";       
+	m_SA[EN_US_UTF_8][_S_INFO_CTRLCONNECTFAIL]="control connection fail";
+	m_SA[ZH_CN_UTF_8][_S_INFO_CTRLCONNECTFAIL]="控制连接失败";	
+	m_SA[ZH_TW_UTF_8][_S_INFO_CTRLCONNECTFAIL]="控制連接失敗";	
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_CREATEINGSOCKET]="Erstelle Socket";
+        m_SA[PT_BR_UTF_8][_S_INFO_CREATEINGSOCKET]="criando socket";        
+	m_SA[EN_US_UTF_8][_S_INFO_CREATEINGSOCKET]="creating socket";
+	m_SA[ZH_CN_UTF_8][_S_INFO_CREATEINGSOCKET]="建立socket...";
+	m_SA[ZH_TW_UTF_8][_S_INFO_CREATEINGSOCKET]="建立socket...";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_CONNECTFAIL]="Verbindung fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_INFO_CONNECTFAIL]="falha na conexão";       
+	m_SA[EN_US_UTF_8][_S_INFO_CONNECTFAIL]="connect fail";
+	m_SA[ZH_CN_UTF_8][_S_INFO_CONNECTFAIL]="连接失败";
+	m_SA[ZH_TW_UTF_8][_S_INFO_CONNECTFAIL]="連線失敗";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_CONNECTOK]="Verbindung ok";
+        m_SA[PT_BR_UTF_8][_S_INFO_CONNECTOK]="conexão ok";       
+	m_SA[EN_US_UTF_8][_S_INFO_CONNECTOK]="connect ok";
+	m_SA[ZH_CN_UTF_8][_S_INFO_CONNECTOK]="连接成功";	
+	m_SA[ZH_TW_UTF_8][_S_INFO_CONNECTOK]="連線成功";		
+
+	m_SA[DE_DE_UTF_8][_S_NEW_CHOOSEPATH]="Wähle ein Verzeichnis, in dem die Datei gespeichert werden soll";
+        m_SA[PT_BR_UTF_8][_S_NEW_CHOOSEPATH]="Escolha um diretório para salvar o arquivo";       
+	m_SA[EN_US_UTF_8][_S_NEW_CHOOSEPATH]="Choose a dir to save file";
+	m_SA[ZH_CN_UTF_8][_S_NEW_CHOOSEPATH]="选择一个目录保存文件";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_CHOOSEPATH]="選擇一個目錄保存文件";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_INPUTTASKINFO]="Input task infomation";
+        m_SA[PT_BR_UTF_8][_S_NEW_INPUTTASKINFO]="Entrada de informações da tarefa";       
+	m_SA[EN_US_UTF_8][_S_NEW_INPUTTASKINFO]="Input task infomation";
+	m_SA[ZH_CN_UTF_8][_S_NEW_INPUTTASKINFO]="输入任务信息";
+	m_SA[ZH_TW_UTF_8][_S_NEW_INPUTTASKINFO]="輸入任務訊息";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_SAVETO]="Speichern unter:";
+        m_SA[PT_BR_UTF_8][_S_NEW_SAVETO]="Salvar para:";       
+	m_SA[EN_US_UTF_8][_S_NEW_SAVETO]="SaveTo:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_SAVETO]="保存到:";
+	m_SA[ZH_TW_UTF_8][_S_NEW_SAVETO]="保存到:";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_URL]="Haupt URL:";
+        m_SA[PT_BR_UTF_8][_S_NEW_URL]="URL PRINCIPAL:";       
+	m_SA[EN_US_UTF_8][_S_NEW_URL]="MAIN URL:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_URL]="主地址:";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_URL]="主地址:";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_RENAME]="Neuer Name:";
+        m_SA[PT_BR_UTF_8][_S_NEW_RENAME]="Renomear:";       
+	m_SA[EN_US_UTF_8][_S_NEW_RENAME]="Rename:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_RENAME]="重命名:";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_RENAME]="重命名:";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_THREADNUM]="Teile";
+        m_SA[PT_BR_UTF_8][_S_NEW_THREADNUM]="Partes";       
+	m_SA[EN_US_UTF_8][_S_NEW_THREADNUM]="Threads";
+	m_SA[ZH_CN_UTF_8][_S_NEW_THREADNUM]="线程数";
+	m_SA[ZH_TW_UTF_8][_S_NEW_THREADNUM]="線程數";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_RETRY]="Wiederholungen";
+        m_SA[PT_BR_UTF_8][_S_NEW_RETRY]="Retentativa";       
+	m_SA[EN_US_UTF_8][_S_NEW_RETRY]="Retry";
+	m_SA[ZH_CN_UTF_8][_S_NEW_RETRY]="重试次数";
+	m_SA[ZH_TW_UTF_8][_S_NEW_RETRY]="重試次數";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_RETRYWAIT]="Wartezeit (Wdh.)[s]";
+        m_SA[ZH_TW_UTF_8][_S_NEW_RETRYWAIT]="Intervalo da[s] Tentativa[s]";   	
+        m_SA[EN_US_UTF_8][_S_NEW_RETRYWAIT]="RetryWait[s]";
+	m_SA[ZH_CN_UTF_8][_S_NEW_RETRYWAIT]="重试间隔[秒]";
+	m_SA[ZH_TW_UTF_8][_S_NEW_RETRYWAIT]="重試間隔[秒]";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_RUNNOW]="Sofort Starten?";
+        m_SA[PT_BR_UTF_8][_S_NEW_RUNNOW]="Executar agora?";       
+	m_SA[EN_US_UTF_8][_S_NEW_RUNNOW]="Run now?";
+	m_SA[ZH_CN_UTF_8][_S_NEW_RUNNOW]="现在运行";
+	m_SA[ZH_TW_UTF_8][_S_NEW_RUNNOW]="現在運行";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_YES]="Ja";
+        m_SA[PT_BR_UTF_8][_S_NEW_YES]="sim";       
+	m_SA[EN_US_UTF_8][_S_NEW_YES]="yes";
+	m_SA[ZH_CN_UTF_8][_S_NEW_YES]="是";		
+	m_SA[ZH_TW_UTF_8][_S_NEW_YES]="是";		
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_NO]="Nein";
+        m_SA[PT_BR_UTF_8][_S_NEW_NO]="não";       
+	m_SA[EN_US_UTF_8][_S_NEW_NO]="no";
+	m_SA[ZH_CN_UTF_8][_S_NEW_NO]="否";
+	m_SA[ZH_TW_UTF_8][_S_NEW_NO]="否";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_TASK]="Neuer Download";
+        m_SA[PT_BR_UTF_8][_S_NEW_TASK]="Nova tarefa";       
+	m_SA[EN_US_UTF_8][_S_NEW_TASK]="New task";
+	m_SA[ZH_CN_UTF_8][_S_NEW_TASK]="新建任务";
+	m_SA[ZH_TW_UTF_8][_S_NEW_TASK]="新建任務";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_BASIC]="Basis Info";
+        m_SA[PT_BR_UTF_8][_S_NEW_BASIC]="Informações Básicas";       
+	m_SA[EN_US_UTF_8][_S_NEW_BASIC]="Basic Info";
+	m_SA[ZH_CN_UTF_8][_S_NEW_BASIC]="基本信息";
+	m_SA[ZH_TW_UTF_8][_S_NEW_BASIC]="基本信息";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_PROXY]="Proxys[option]";
+        m_SA[PT_BR_UTF_8][_S_NEW_PROXY]="Proxys[opcional]";       
+	m_SA[EN_US_UTF_8][_S_NEW_PROXY]="Proxys[option]";
+	m_SA[ZH_CN_UTF_8][_S_NEW_PROXY]="代理设置[可选]";
+	m_SA[ZH_TW_UTF_8][_S_NEW_PROXY]="代理設置[可選]";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_LOGIN]="Login[option]";
+        m_SA[PT_BR_UTF_8][_S_NEW_LOGIN]="Login[opcional]";       
+	m_SA[EN_US_UTF_8][_S_NEW_LOGIN]="Login[option]";
+	m_SA[ZH_CN_UTF_8][_S_NEW_LOGIN]="登录[可选]";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_LOGIN]="登入[可選]";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_USER]="Benutzer:";
+        m_SA[PT_BR_UTF_8][_S_NEW_USER]="Usuário:";       
+	m_SA[EN_US_UTF_8][_S_NEW_USER]="User:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_USER]="用户名:";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_USER]="用戶名:";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_PASS]="Passwort:";
+        m_SA[PT_BR_UTF_8][_S_NEW_PASS]="Senha:";       
+	m_SA[EN_US_UTF_8][_S_NEW_PASS]="Pass:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_PASS]="密码:";		
+	m_SA[ZH_TW_UTF_8][_S_NEW_PASS]="密碼:";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_NOSOCKSPROXY]="Kein Socks Proxy voreingestellt";
+        m_SA[PT_BR_UTF_8][_S_NEW_NOSOCKSPROXY]="sem proxy de socks predefinido"; 
+	m_SA[EN_US_UTF_8][_S_NEW_NOSOCKSPROXY]="no socks proxy preseted";
+	m_SA[ZH_CN_UTF_8][_S_NEW_NOSOCKSPROXY]="没有预设的SOCKS代理可用";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_NOSOCKSPROXY]="沒有預設的SOCKS代理可用";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_NOFTPPROXY]="Kein FTP Proxy voreingestellt";
+        m_SA[PT_BR_UTF_8][_S_NEW_NOFTPPROXY]="sem proxy de ftp predefinido";     
+	m_SA[EN_US_UTF_8][_S_NEW_NOFTPPROXY]="no ftp proxy preseted";
+	m_SA[ZH_CN_UTF_8][_S_NEW_NOFTPPROXY]="没有预设的FTP代理可用";	
+	m_SA[ZH_TW_UTF_8][_S_NEW_NOFTPPROXY]="沒有預設的FTP代理可用";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_NOHTTPPROXY]="Kein HTTP Proxy voreingestellt";
+        m_SA[PT_BR_UTF_8][_S_NEW_NOHTTPPROXY]="sem proxy de http predefinido";   
+	m_SA[EN_US_UTF_8][_S_NEW_NOHTTPPROXY]="no http proxy preseted";
+	m_SA[ZH_CN_UTF_8][_S_NEW_NOHTTPPROXY]="没有预设的HTTP代理可用";		
+	m_SA[ZH_TW_UTF_8][_S_NEW_NOHTTPPROXY]="沒有預設的HTTP代理可用";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_NONE]="Keine";
+        m_SA[PT_BR_UTF_8][_S_NEW_NONE]="Nada";       
+	m_SA[EN_US_UTF_8][_S_NEW_NONE]="None";
+	m_SA[ZH_CN_UTF_8][_S_NEW_NONE]="可选预设代理";			
+	m_SA[ZH_TW_UTF_8][_S_NEW_NONE]="可選預設代理";		
+	
+	m_SA[DE_DE_UTF_8][_S_100_TONGJI]="Hundredth Anniversary of Tongji University";
+        m_SA[PT_BR_UTF_8][_S_100_TONGJI]="Centésimo Aniversário da Universidade de Tongji";       
+	m_SA[EN_US_UTF_8][_S_100_TONGJI]="Hundredth Anniversary of Tongji University";
+	m_SA[ZH_CN_UTF_8][_S_100_TONGJI]="百 年 同 济";
+	m_SA[ZH_TW_UTF_8][_S_100_TONGJI]="百 年 同 濟";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_TASKFINISH]="Download beendet:";
+        m_SA[PT_BR_UTF_8][_S_INFO_TASKFINISH]="Tarefa Terminada:";       
+	m_SA[EN_US_UTF_8][_S_INFO_TASKFINISH]="Task Finish:";
+	m_SA[ZH_CN_UTF_8][_S_INFO_TASKFINISH]="任务完成:";
+	m_SA[ZH_TW_UTF_8][_S_INFO_TASKFINISH]="任務完成:";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_TASKFAIL]="Download Fehlgeschlagen:";
+        m_SA[PT_BR_UTF_8][_S_INFO_TASKFAIL]="Falha na Tarefa:";       
+	m_SA[EN_US_UTF_8][_S_INFO_TASKFAIL]="Task Fail:";
+	m_SA[ZH_CN_UTF_8][_S_INFO_TASKFAIL]="任务失败:";
+	m_SA[ZH_TW_UTF_8][_S_INFO_TASKFAIL]="任務失敗:";	
+
+	m_SA[DE_DE_UTF_8][_S_INFO_WELCOME]="Danke, dass Sie Multiget verwenden!";
+        m_SA[PT_BR_UTF_8][_S_INFO_WELCOME]="Bem vindo ao uso do gerenciador de download MultiGet!";       
+	m_SA[EN_US_UTF_8][_S_INFO_WELCOME]="Welcome to use MultiGet file downloader!";
+	m_SA[ZH_CN_UTF_8][_S_INFO_WELCOME]="欢迎使用MultiGet文件下载器！";
+	m_SA[ZH_TW_UTF_8][_S_INFO_WELCOME]="歡迎使用MultiGet文件下載器！";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_FILEMOVEFAIL]="Verschieben der Datei fehlgeschlagen! \nFinden Sie die Datei in /home/yourname/.MultiGet/ und verschieben diese aus diesem Ordner";
+        m_SA[PT_BR_UTF_8][_S_INFO_FILEMOVEFAIL]="falha ao mover! \nfind para /home/yourname/.MultiGet/ e movendo-o para fora.";       
+	m_SA[EN_US_UTF_8][_S_INFO_FILEMOVEFAIL]="file move fail! \nfind it in /home/yourname/.MultiGet/ and move it out.";
+	m_SA[ZH_CN_UTF_8][_S_INFO_FILEMOVEFAIL]="文件移动失败！\n进入/home/user/.MultiGet/ 手工移出你的文件";		
+	m_SA[ZH_TW_UTF_8][_S_INFO_FILEMOVEFAIL]="文件移動失敗！\n進入/home/user/.MultiGet/ 手工移出你的文檔";	
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_TASKSTILLRUNNING]="Es sind noch Downloads aktiv. Das Schließen des Fensters beendet alle laufenden Downloads, Schließen?";
+        m_SA[PT_BR_UTF_8][_S_INFO_TASKSTILLRUNNING]="Existem tarefas em execução, fechar a janela irá parar todas as tarefas em execuçãoa, SAIR?";       
+	m_SA[EN_US_UTF_8][_S_INFO_TASKSTILLRUNNING]="There are tasks running,close window will stop all running task,QUIT?";
+	m_SA[ZH_CN_UTF_8][_S_INFO_TASKSTILLRUNNING]="还有任务在运行中，关闭窗口将停止所有任务，退出？";
+	m_SA[ZH_TW_UTF_8][_S_INFO_TASKSTILLRUNNING]="還有任務在運行中，關閉窗口將停止所有任務，退出？";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_WARNNING]="Achtung";
+        m_SA[PT_BR_UTF_8][_S_INFO_WARNNING]="Aviso";       
+	m_SA[EN_US_UTF_8][_S_INFO_WARNNING]="Warnning";
+	m_SA[ZH_CN_UTF_8][_S_INFO_WARNNING]="警告";		
+	m_SA[ZH_TW_UTF_8][_S_INFO_WARNNING]="警告";
+	
+	m_SA[DE_DE_UTF_8][_S_INFO_NOTSUPPORTURL]="Nicht unterstütze URL Adresse";
+        m_SA[PT_BR_UTF_8][_S_INFO_NOTSUPPORTURL]="URL não suportada";       
+	m_SA[EN_US_UTF_8][_S_INFO_NOTSUPPORTURL]="Not a supported url file address";
+	m_SA[ZH_CN_UTF_8][_S_INFO_NOTSUPPORTURL]="不支持的URL地址，目前仅支持ftp,http";
+	m_SA[ZH_TW_UTF_8][_S_INFO_NOTSUPPORTURL]="不支持的URL地址，目前僅支持ftp,http";
+
+	m_SA[DE_DE_UTF_8][_S_TRAY_HIDERESTORE]="Zeige/Verberge MultiGet";
+        m_SA[PT_BR_UTF_8][_S_TRAY_HIDERESTORE]="Mostrar/Esconder MultiGet";      
+	m_SA[EN_US_UTF_8][_S_TRAY_HIDERESTORE]="Show/Hide MultiGet";
+	m_SA[ZH_CN_UTF_8][_S_TRAY_HIDERESTORE]="隐藏/显示主窗口";		
+	m_SA[ZH_TW_UTF_8][_S_TRAY_HIDERESTORE]="隱藏/顯示主窗口";	
+	
+	m_SA[DE_DE_UTF_8][_S_TRAY_SHOWDROPWIN]="Zeige DnD Papierkorb";
+        m_SA[PT_BR_UTF_8][_S_TRAY_SHOWDROPWIN]="Mostrar Janela de Download";     
+	m_SA[EN_US_UTF_8][_S_TRAY_SHOWDROPWIN]="Show Drop Window";
+	m_SA[ZH_CN_UTF_8][_S_TRAY_SHOWDROPWIN]="显示拖放窗口";
+	m_SA[ZH_TW_UTF_8][_S_TRAY_SHOWDROPWIN]="顯示拖放窗口";
+
+	m_SA[DE_DE_UTF_8][_S_TRAY_MONITERCLIP]="Zwischenablage beobachten";
+        m_SA[PT_BR_UTF_8][_S_TRAY_MONITERCLIP]="Monitor da Área de Transferência";       
+	m_SA[EN_US_UTF_8][_S_TRAY_MONITERCLIP]="Monitor ClipBoard";
+	m_SA[ZH_CN_UTF_8][_S_TRAY_MONITERCLIP]="监视剪贴板";		
+	m_SA[ZH_TW_UTF_8][_S_TRAY_MONITERCLIP]="監視剪帖板";	
+	
+	m_SA[DE_DE_UTF_8][_S_TRAY_STARTALL]="Alle starten";
+        m_SA[PT_BR_UTF_8][_S_TRAY_STARTALL]="Inciar Tudo";       
+	m_SA[EN_US_UTF_8][_S_TRAY_STARTALL]="Start All";
+	m_SA[ZH_CN_UTF_8][_S_TRAY_STARTALL]="开始全部任务";
+	m_SA[ZH_TW_UTF_8][_S_TRAY_STARTALL]="開始全部任務";
+	
+	m_SA[DE_DE_UTF_8][_S_TRAY_STOPALL]="Alle stoppen";
+        m_SA[PT_BR_UTF_8][_S_TRAY_STOPALL]="Parar Tudo";       
+	m_SA[EN_US_UTF_8][_S_TRAY_STOPALL]="Stop All";
+	m_SA[ZH_CN_UTF_8][_S_TRAY_STOPALL]="停止全部任务";	
+	m_SA[ZH_TW_UTF_8][_S_TRAY_STOPALL]="停止全部任務";	
+	
+	m_SA[DE_DE_UTF_8][_S_TRAY_NOLIMIT]="Kein Limit";
+        m_SA[PT_BR_UTF_8][_S_TRAY_NOLIMIT]="Sem Limite";        
+	m_SA[EN_US_UTF_8][_S_TRAY_NOLIMIT]="No Limit";
+	m_SA[ZH_CN_UTF_8][_S_TRAY_NOLIMIT]="不限速";
+	m_SA[ZH_TW_UTF_8][_S_TRAY_NOLIMIT]="不限速";
+	
+	m_SA[DE_DE_UTF_8][_S_TASKLIST_DAY]="%d Tag";
+        m_SA[PT_BR_UTF_8][_S_TASKLIST_DAY]="%d dia";       
+	m_SA[EN_US_UTF_8][_S_TASKLIST_DAY]="%d day";
+	m_SA[ZH_CN_UTF_8][_S_TASKLIST_DAY]="%d 天";
+	m_SA[ZH_TW_UTF_8][_S_TASKLIST_DAY]="%d 天";
+	
+	m_SA[DE_DE_UTF_8][_S_TASKLIST_TIME]="%02dh:%02dm:%02ds";
+        m_SA[PT_BR_UTF_8][_S_TASKLIST_TIME]="%02dh:%02dm:%02ds";       
+	m_SA[EN_US_UTF_8][_S_TASKLIST_TIME]="%02dh:%02dm:%02ds";
+	m_SA[ZH_CN_UTF_8][_S_TASKLIST_TIME]="%02d时%02d分%02d秒";
+	m_SA[ZH_TW_UTF_8][_S_TASKLIST_TIME]="%02d時%02d分%02d秒";
+	
+	m_SA[DE_DE_UTF_8][_S_METER_TOPSPEED]="TOP SPEED";
+        m_SA[PT_BR_UTF_8][_S_METER_TOPSPEED]="VELOCIDADE SUPERIOR";       
+	m_SA[EN_US_UTF_8][_S_METER_TOPSPEED]="TOP SPEED";
+	m_SA[ZH_CN_UTF_8][_S_METER_TOPSPEED]="上线显示速度";
+	m_SA[ZH_TW_UTF_8][_S_METER_TOPSPEED]="上線顯示速度";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW]="Ansicht(&V)";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW]="Ver(&V)";       
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW]="View(&V)";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW]="视图(&V)";
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW]="檢視(&V)";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW_LANG]="Language";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW_LANG]="Language";       
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW_LANG]="Language";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW_LANG]="Language";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW_LANG]="Language";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW_TOOLBAR]="Symbolleiste";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW_TOOLBAR]="Barra de Ferramentas";       
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW_TOOLBAR]="ToolBar";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW_TOOLBAR]="工具条";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW_TOOLBAR]="工具列";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW_STATUSBAR]="Statusleiste";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW_STATUSBAR]="Barra de Status";       
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW_STATUSBAR]="StatusBar";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW_STATUSBAR]="状态条";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW_STATUSBAR]="狀庇列";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_OPTION]="Optionen(&P)";
+        m_SA[PT_BR_UTF_8][_S_MENU_OPTION]="Opções(&P)";       
+	m_SA[EN_US_UTF_8][_S_MENU_OPTION]="Option(&P)";
+	m_SA[ZH_CN_UTF_8][_S_MENU_OPTION]="选项(&P)";
+	m_SA[ZH_TW_UTF_8][_S_MENU_OPTION]="選項(&P)";
+	
+	m_SA[DE_DE_UTF_8][_S_STATUS_TOTALSPEED]="Geschwindigkeit:";
+        m_SA[PT_BR_UTF_8][_S_STATUS_TOTALSPEED]="Velocidade:";       
+	m_SA[EN_US_UTF_8][_S_STATUS_TOTALSPEED]="Speed:";
+	m_SA[ZH_CN_UTF_8][_S_STATUS_TOTALSPEED]="总速度:";
+	m_SA[ZH_TW_UTF_8][_S_STATUS_TOTALSPEED]="總速度:";
+	
+	m_SA[DE_DE_UTF_8][_S_STATUS_RUNNINGTASK]="Aktiv:";
+        m_SA[PT_BR_UTF_8][_S_STATUS_RUNNINGTASK]="Em execução:";       
+	m_SA[EN_US_UTF_8][_S_STATUS_RUNNINGTASK]="Running:";
+	m_SA[ZH_CN_UTF_8][_S_STATUS_RUNNINGTASK]="运行任务:";	
+	m_SA[ZH_TW_UTF_8][_S_STATUS_RUNNINGTASK]="運行任務:";	
+	
+	m_SA[DE_DE_UTF_8][_S_STATUS_WAITINGTASK]="Wartend:";
+        m_SA[PT_BR_UTF_8][_S_STATUS_WAITINGTASK]="Aguardando:";       
+	m_SA[EN_US_UTF_8][_S_STATUS_WAITINGTASK]="Waiting:";
+	m_SA[ZH_CN_UTF_8][_S_STATUS_WAITINGTASK]="等待任务:";		
+	m_SA[ZH_TW_UTF_8][_S_STATUS_WAITINGTASK]="等待任務:";		
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE16]="16*16 Icon";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE16]="ícone 16*16";       
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE16]="16*16 icon";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE16]="16*16 图标";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE16]="16*16 圖示";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE24]="24*24 Icon";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE24]="ícone 24*24";        
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE24]="24*24 icon";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE24]="24*24 图标";	
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE24]="24*24 圖示";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE32]="32*32 Icon";
+        m_SA[PT_BR_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE32]="ícone 32*32";       
+	m_SA[EN_US_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE32]="32*32 icon";
+	m_SA[ZH_CN_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE32]="32*32 图标";		
+	m_SA[ZH_TW_UTF_8][_S_MENU_VIEW_TOOLBAR_SIZE32]="32*32 圖示";		
+	
+	m_SA[DE_DE_UTF_8][_S_APP_DUPRUN]="MultiGet läuft bereits, schließe.";
+        m_SA[PT_BR_UTF_8][_S_APP_DUPRUN]="Outra instãncia do MultiGet em execução, finalizando.";       
+	m_SA[EN_US_UTF_8][_S_APP_DUPRUN]="Another MultiGet running,quit.";
+	m_SA[ZH_CN_UTF_8][_S_APP_DUPRUN]="另一个程序在运行中，退出。";
+	m_SA[ZH_TW_UTF_8][_S_APP_DUPRUN]="另一個程序在運行中，退出";
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_ADMIN]="Proxy Einstellungen";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_ADMIN]="Administração de Proxy";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_ADMIN]="Proxy Administrator";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_ADMIN]="代理设置管理";
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_ADMIN]="代理設置管理";
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_ADDPROXY]="Proxy hinzufügen";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_ADDPROXY]="Adicionar Proxy";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_ADDPROXY]="Add Proxy";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_ADDPROXY]="添加代理";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_ADDPROXY]="增加代理";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_DELPROXY]="Proxy entfernen";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_DELPROXY]="Apagar Proxy";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_DELPROXY]="Del Proxy";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_DELPROXY]="删除代理";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_DELPROXY]="刪除代理";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_NAME]="Name";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_NAME]="Nome";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_NAME]="Name";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_NAME]="名称";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_NAME]="名稱";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_TYPE]="Typ";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_TYPE]="Tipo";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_TYPE]="Type";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_TYPE]="类型";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_TYPE]="類型";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_SERVER]="Server";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_SERVER]="Servidor";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_SERVER]="Server";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_SERVER]="代理服务器";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_SERVER]="代理服務器";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_PORT]="Port";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_PORT]="Porta";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_PORT]="Port";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_PORT]="端口";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_PORT]="埠號";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_USER]="Benutzer";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_USER]="Usuário";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_USER]="User";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_USER]="用户名";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_USER]="用戶名稱";	
+	
+	m_SA[DE_DE_UTF_8][_S_PROXYDLG_PASS]="Passwort";
+        m_SA[PT_BR_UTF_8][_S_PROXYDLG_PASS]="Senha";       
+	m_SA[EN_US_UTF_8][_S_PROXYDLG_PASS]="Password";
+	m_SA[ZH_CN_UTF_8][_S_PROXYDLG_PASS]="密码";	
+	m_SA[ZH_TW_UTF_8][_S_PROXYDLG_PASS]="密碼";	
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_PROXYNAME]="Proxy Name";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_PROXYNAME]="Nome do Proxy";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_PROXYNAME]="Proxy Name";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_PROXYNAME]="代理名称";	
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_PROXYNAME]="代理名稱";	
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_PROXYARGS]="Proxy Args";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_PROXYARGS]="Parâmetros do Proxy";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_PROXYARGS]="Proxy Args";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_PROXYARGS]="代理参数";		
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_PROXYARGS]="代理參數";	
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_SERVER]="Server";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_SERVER]="Servidor";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_SERVER]="Server";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_SERVER]="服务器";	
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_SERVER]="伺服器";	
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_PORT]="Port";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_PORT]="Porta";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_PORT]="Port";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_PORT]="端口";	
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_PORT]="埠號";	
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_USER]="Benutzer [option]";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_USER]="Usuário[opcional]";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_USER]="User[option]";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_USER]="用户[可选]";	
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_USER]="用戶[可選]";	
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_PASS]="Passwort [option]";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_PASS]="Senha[opional]";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_PASS]="Pass[option]";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_PASS]="密码[可选]";
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_PASS]="密碼[可選]";
+	
+	m_SA[DE_DE_UTF_8][_S_ADDPROXYDLG_PROXYTYPE]="Typ";
+        m_SA[PT_BR_UTF_8][_S_ADDPROXYDLG_PROXYTYPE]="Tipo";       
+	m_SA[EN_US_UTF_8][_S_ADDPROXYDLG_PROXYTYPE]="Type";
+	m_SA[ZH_CN_UTF_8][_S_ADDPROXYDLG_PROXYTYPE]="类型";
+	m_SA[ZH_TW_UTF_8][_S_ADDPROXYDLG_PROXYTYPE]="類型";
+	
+	m_SA[DE_DE_UTF_8][_S_MAINFRAME_DELETESELECT]="Ausgewählten Download löschen";
+        m_SA[PT_BR_UTF_8][_S_MAINFRAME_DELETESELECT]="Apagar Tarefa Selecionada";       
+	m_SA[EN_US_UTF_8][_S_MAINFRAME_DELETESELECT]="Delete Selected Task";
+	m_SA[ZH_CN_UTF_8][_S_MAINFRAME_DELETESELECT]="删除当前选择的任务";
+	m_SA[ZH_TW_UTF_8][_S_MAINFRAME_DELETESELECT]="刪除當前選擇的任務";
+	
+	m_SA[DE_DE_UTF_8][_S_MAINFRAME_DELETEWARNNING]="Bist du sicher?";
+        m_SA[PT_BR_UTF_8][_S_MAINFRAME_DELETEWARNNING]="Você tem CERTEZA?";      
+	m_SA[EN_US_UTF_8][_S_MAINFRAME_DELETEWARNNING]="Are You SURE?";
+	m_SA[ZH_CN_UTF_8][_S_MAINFRAME_DELETEWARNNING]="确定删除？";
+	m_SA[ZH_TW_UTF_8][_S_MAINFRAME_DELETEWARNNING]="确定刪除？";
+	
+	m_SA[DE_DE_UTF_8][_S_ABOUT_BUGREPORT]="Bug Report: multiget@gmail.com";
+        m_SA[PT_BR_UTF_8][_S_ABOUT_BUGREPORT]="Reportar erros: multiget@gmail.com";       
+	m_SA[EN_US_UTF_8][_S_ABOUT_BUGREPORT]="Bug Report: multiget@gmail.com";
+	m_SA[ZH_CN_UTF_8][_S_ABOUT_BUGREPORT]="Bug 报告: multiget@gmail.com";
+	m_SA[ZH_TW_UTF_8][_S_ABOUT_BUGREPORT]="Bug 報告: multiget@gmail.com";
+	
+	m_SA[DE_DE_UTF_8][_S_ABOUT_MAINPUBLISH]="Homepage: http://multiget.sourceforge.net/";
+        m_SA[PT_BR_UTF_8][_S_ABOUT_MAINPUBLISH]="página oficial: http://multiget.sourceforge.net/";       
+	m_SA[EN_US_UTF_8][_S_ABOUT_MAINPUBLISH]="home page: http://multiget.sourceforge.net/";
+	m_SA[ZH_CN_UTF_8][_S_ABOUT_MAINPUBLISH]="主页: http://multiget.sourceforge.net/";
+	m_SA[ZH_TW_UTF_8][_S_ABOUT_MAINPUBLISH]="主頁: http://multiget.sourceforge.net/";
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL_SAVEPATH]="Speichern-Pfad";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_SAVEPATH]="Diretório para salvar";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_SAVEPATH]="Save Path";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_SAVEPATH]="保存目录";
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_SAVEPATH]="保存目錄";
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL_SOCKSPROXY]="SOCKS Proxy";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_SOCKSPROXY]="Proxy de SOCKS";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_SOCKSPROXY]="SOCKS Proxy";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_SOCKSPROXY]="SOCKS代理";	
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_SOCKSPROXY]="SOCKS代理";	
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL_FTPPROXY]="FTP Proxy";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_FTPPROXY]="Ftp Proxy";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_FTPPROXY]="Ftp Proxy";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_FTPPROXY]="Ftp代理";	
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_FTPPROXY]="Ftp代理";	
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL_HTTPPROXY]="HTTP Proxy";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_HTTPPROXY]="Http Proxy";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_HTTPPROXY]="Http Proxy";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_HTTPPROXY]="Http代理";		
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_HTTPPROXY]="Http代理";	
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL_MD5]="MD5 SUM";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_MD5]="md5 sum";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_MD5]="md5 sum";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_MD5]="md5校验码";
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_MD5]="md5校驗碼";
+	
+	m_SA[DE_DE_UTF_8][_S_DETAIL_PAUSE]="Pause";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_PAUSE]="pausa";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_PAUSE]="pause";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_PAUSE]="暂停中";
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_PAUSE]="暫停中";
+
+	m_SA[DE_DE_UTF_8][_S_DETAIL_NOM]="Anzahl Mirror";
+        m_SA[PT_BR_UTF_8][_S_DETAIL_NOM]="Número de url dos espelhos";       
+	m_SA[EN_US_UTF_8][_S_DETAIL_NOM]="Number of mirror url";
+	m_SA[ZH_CN_UTF_8][_S_DETAIL_NOM]="镜像地址数量";
+	m_SA[ZH_TW_UTF_8][_S_DETAIL_NOM]="鏡像地址數量";
+	
+	m_SA[DE_DE_UTF_8][_S_LOG]="Log";
+        m_SA[PT_BR_UTF_8][_S_LOG]="Registro";       
+	m_SA[EN_US_UTF_8][_S_LOG]="Log";
+	m_SA[ZH_CN_UTF_8][_S_LOG]="日志信息";
+	m_SA[ZH_TW_UTF_8][_S_LOG]="日誌訊息";
+	
+	m_SA[DE_DE_UTF_8][_S_MAINFRAME_RELOADWARNNING]="Neu herunterladen, den alten Download löschen?";
+        m_SA[PT_BR_UTF_8][_S_MAINFRAME_RELOADWARNNING]="Redownload apaga os antigos?";       
+	m_SA[EN_US_UTF_8][_S_MAINFRAME_RELOADWARNNING]="Redownload delete old?";
+	m_SA[ZH_CN_UTF_8][_S_MAINFRAME_RELOADWARNNING]="重新下载删除原任务？";
+	m_SA[ZH_TW_UTF_8][_S_MAINFRAME_RELOADWARNNING]="重新下載刪除原任務？";
+	
+	m_SA[DE_DE_UTF_8][_S_MAINFRAME_RELOADDELETE]="Der neue Download wird den alten löschen:";
+        m_SA[PT_BR_UTF_8][_S_MAINFRAME_RELOADDELETE]="Redownload irá apagar primeiro o antigo:";        
+	m_SA[EN_US_UTF_8][_S_MAINFRAME_RELOADDELETE]="Redownload will delete old first:";
+	m_SA[ZH_CN_UTF_8][_S_MAINFRAME_RELOADDELETE]="重新下载要先删除原任务：";
+	m_SA[ZH_TW_UTF_8][_S_MAINFRAME_RELOADDELETE]="重新下載要先刪除原任務：";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_TASKARGS]="Download Einstellungen";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_TASKARGS]="Parâmetros da Tarefa";       	
+        m_SA[EN_US_UTF_8][_S_CONFIGWIN_TASKARGS]="Task Arguments";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_TASKARGS]="任务参数";	
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_TASKARGS]="任務參數";	
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_MAXRUNTASK]="Max aktive Downloads[1-10]:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_MAXRUNTASK]="Máximo de Tarefas em Execução[1-10]:";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_MAXRUNTASK]="Max Running Tasks[1-10]:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_MAXRUNTASK]="最大同时运行任务[1-10]:";	
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_MAXRUNTASK]="最大同時運行任務[1-10]:";	
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_DEFTHREAD]="Anzahl Teile [1-10]:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_DEFTHREAD]="Sessões Padrão[1-10]:";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_DEFTHREAD]="Default Sessions[1-10]:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_DEFTHREAD]="缺省任务分片数[1-10]:";	
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_DEFTHREAD]="缺省任務分片數[1-10]:";	
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_DEFSAVEPATH]="Download Verzeichnis";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_DEFSAVEPATH]="Diretório Padrão de Salvamento:";        
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_DEFSAVEPATH]="Default Save Path:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_DEFSAVEPATH]="缺省保存目录:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_DEFSAVEPATH]="預設儲存目錄:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_NETARGS]="Netzwerk Einstellungen";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_NETARGS]="Parâmetros da Rede";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_NETARGS]="Network Arguments";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_NETARGS]="网络参数";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_NETARGS]="网路參數";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_CONNECTTIMEOUT]="Verbindungs Timeout[10-300]";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_CONNECTTIMEOUT]="Tempo Máximo de Tentiva de Conexão[10-300]";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_CONNECTTIMEOUT]="Connect Timeout[10-300]";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_CONNECTTIMEOUT]="连接超时[10-300]:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_CONNECTTIMEOUT]="連接逾時[10-300]:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_RWTIMEOUT]="Senden/Empfangen Timeout[10-300]";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_RWTIMEOUT]="Tempo Máximo de Envio/Recebimento[10-300]";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_RWTIMEOUT]="Send/Receive Timeout[10-300]";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_RWTIMEOUT]="接收/发送超时[10-300]:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_RWTIMEOUT]="接收/傳送逾時[10-300]:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_MAXRETRY]="Wiederholungsversuche[1-99999]:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_MAXRETRY]="Número Padrão de Tentivas/Sessões[1-99999]:";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_MAXRETRY]="Default Retry/Sessions[1-99999]:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_MAXRETRY]="缺省重试次数/每线程[1-99999]:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_MAXRETRY]="預設重試次數/每線程[1-99999]:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_WAITRETRY]="Wartezeit zw. Wdh.[5-3000]:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_WAITRETRY]="Intervalo Padrão de Tentivas[5-3000]:";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_WAITRETRY]="Default Retry Delay[5-3000]:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_WAITRETRY]="缺省重试等待[5-3000]:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_WAITRETRY]="預設重試等待[5-3000]:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_OTHER]="Sonstiges";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_OTHER]="Outro";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_OTHER]="Other";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_OTHER]="其他";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_OTHER]="其他";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_ANONPASS]="FTP Anon Pass:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_ANONPASS]="Senha de Ftp Anônimo:";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_ANONPASS]="Ftp Anon Pass:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_ANONPASS]="匿名FTP密码:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_ANONPASS]="匿名FTP密碼:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_SPEEDLIMIT]="Geschwindigkeits Limit";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_SPEEDLIMIT]="Limite de Velocidade";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_SPEEDLIMIT]="Speed Limit";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_SPEEDLIMIT]="速度限制:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_SPEEDLIMIT]="速度限制:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_NOLIMIT]="Kein Limit";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_NOLIMIT]="Sem Limite";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_NOLIMIT]="No Limit";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_NOLIMIT]="不限速度";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_NOLIMIT]="不限速度";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_CLIPMONI]="Überwachen der Zwischenablage";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_CLIPMONI]="Monitor da Área de Transferência";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_CLIPMONI]="ClipBoard Monitor";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_CLIPMONI]="剪贴板监视";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_CLIPMONI]="檢示剪帖簿";	
+
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_IGNOREEXT]="Erweiterungen ignorieren:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_IGNOREEXT]="Ignorar as Extensões:";      
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_IGNOREEXT]="Ignore Extentions:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_IGNOREEXT]="忽略的后缀:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_IGNOREEXT]="忽略的尾碼:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_ONLYEXT]="Erweiterungen abfangen:";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_ONLYEXT]="Capturar as Extensões:";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_ONLYEXT]="Capture Extentions:";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_ONLYEXT]="只监视的后缀:";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_ONLYEXT]="只監視的尾碼:";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_SOUND]="Sound (fertiger Download) [Experimentell]";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_SOUND]="Alerta Sonoro do Fim da Tarefa (Experimental)";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_SOUND]="Sound Tip When Task End (Experimental)";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_SOUND]="任务结束声音提示(实验性的)";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_SOUND]="任務結束聲音提示(實驗性的)";
+	
+	m_SA[DE_DE_UTF_8][_S_CONFIGWIN_AUTOMD5]="Automatische MD5 Überprüfung";
+        m_SA[PT_BR_UTF_8][_S_CONFIGWIN_AUTOMD5]="Verificação automática do md5";       
+	m_SA[EN_US_UTF_8][_S_CONFIGWIN_AUTOMD5]="Auto md5 check";
+	m_SA[ZH_CN_UTF_8][_S_CONFIGWIN_AUTOMD5]="任务结束自动MD5校验";
+	m_SA[ZH_TW_UTF_8][_S_CONFIGWIN_AUTOMD5]="任務結束自動MD5校驗";	
+
+	m_SA[DE_DE_UTF_8][_S_TIP_NEWTASK]="Neuer Download";
+        m_SA[PT_BR_UTF_8][_S_TIP_NEWTASK]="Nova Tarefa";       
+	m_SA[EN_US_UTF_8][_S_TIP_NEWTASK]="New task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_NEWTASK]="新建任务";
+	m_SA[ZH_TW_UTF_8][_S_TIP_NEWTASK]="建立任務";
+	
+	m_SA[DE_DE_UTF_8][_S_TIP_RUNTASK]="Download starten";
+        m_SA[PT_BR_UTF_8][_S_TIP_RUNTASK]="Executar tarefa";       
+	m_SA[EN_US_UTF_8][_S_TIP_RUNTASK]="Run task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_RUNTASK]="运行任务";
+	m_SA[ZH_TW_UTF_8][_S_TIP_RUNTASK]="運行任務";	
+	
+	m_SA[DE_DE_UTF_8][_S_TIP_STOPTASK]="Download stoppen";
+        m_SA[PT_BR_UTF_8][_S_TIP_STOPTASK]="Parar tarefa";       
+	m_SA[EN_US_UTF_8][_S_TIP_STOPTASK]="Stop task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_STOPTASK]="停止任务";
+	m_SA[ZH_TW_UTF_8][_S_TIP_STOPTASK]="停止任務";		
+	
+	m_SA[DE_DE_UTF_8][_S_TIP_DELETETASK]="Download löschen";
+        m_SA[PT_BR_UTF_8][_S_TIP_DELETETASK]="Apagar tarefa";       
+	m_SA[EN_US_UTF_8][_S_TIP_DELETETASK]="Delete task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_DELETETASK]="删除任务";
+	m_SA[ZH_TW_UTF_8][_S_TIP_DELETETASK]="刪除任務";			
+
+	m_SA[DE_DE_UTF_8][_S_TIP_MOVEUPTASK]="Download nach oben";
+        m_SA[PT_BR_UTF_8][_S_TIP_MOVEUPTASK]="Mover tarefa para cima";       
+	m_SA[EN_US_UTF_8][_S_TIP_MOVEUPTASK]="Move up task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_MOVEUPTASK]="上移任务";
+	m_SA[ZH_TW_UTF_8][_S_TIP_MOVEUPTASK]="上移任務";			
+	
+	m_SA[DE_DE_UTF_8][_S_TIP_MOVEDOWNTASK]="Download nach unten";
+        m_SA[PT_BR_UTF_8][_S_TIP_MOVEDOWNTASK]="Mover tarefa para baixo";       
+	m_SA[EN_US_UTF_8][_S_TIP_MOVEDOWNTASK]="Move down task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_MOVEDOWNTASK]="下移任务";
+	m_SA[ZH_TW_UTF_8][_S_TIP_MOVEDOWNTASK]="下移任務";		
+
+	m_SA[DE_DE_UTF_8][_S_TIP_ADDTASKTHREAD]="Mehr Download-Teile";
+        m_SA[PT_BR_UTF_8][_S_TIP_ADDTASKTHREAD]="Incrementar a sessão";       
+	m_SA[EN_US_UTF_8][_S_TIP_ADDTASKTHREAD]="Increase a session";
+	m_SA[ZH_CN_UTF_8][_S_TIP_ADDTASKTHREAD]="增加下载线程";
+	m_SA[ZH_TW_UTF_8][_S_TIP_ADDTASKTHREAD]="增加下載線程";	
+	
+	m_SA[DE_DE_UTF_8][_S_TIP_SUBTASKTHREAD]="Weniger Download-Teile";
+        m_SA[PT_BR_UTF_8][_S_TIP_SUBTASKTHREAD]="Reduzir a sessão";       
+	m_SA[EN_US_UTF_8][_S_TIP_SUBTASKTHREAD]="Reduce a session";
+	m_SA[ZH_CN_UTF_8][_S_TIP_SUBTASKTHREAD]="减少下载线程";
+	m_SA[ZH_TW_UTF_8][_S_TIP_SUBTASKTHREAD]="減少下載線程";		
+
+	m_SA[DE_DE_UTF_8][_S_TIP_RELOADTASK]="Download erneut herunterladen";
+        m_SA[PT_BR_UTF_8][_S_TIP_RELOADTASK]="Redownload  a tarefa";       
+	m_SA[EN_US_UTF_8][_S_TIP_RELOADTASK]="Redownload task";
+	m_SA[ZH_CN_UTF_8][_S_TIP_RELOADTASK]="重新下载";
+	m_SA[ZH_TW_UTF_8][_S_TIP_RELOADTASK]="重新下載";		
+	
+	m_SA[DE_DE_UTF_8][_S_TIP_SYSCONFIG]="Einstellungen";
+        m_SA[PT_BR_UTF_8][_S_TIP_SYSCONFIG]="Configuração do programa";       
+	m_SA[EN_US_UTF_8][_S_TIP_SYSCONFIG]="System configure";
+	m_SA[ZH_CN_UTF_8][_S_TIP_SYSCONFIG]="系统配置";
+	m_SA[ZH_TW_UTF_8][_S_TIP_SYSCONFIG]="系統配置";
+
+	m_SA[DE_DE_UTF_8][_S_TIP_PROXYADMIN]="Proxy Einstellungen";
+        m_SA[PT_BR_UTF_8][_S_TIP_PROXYADMIN]="Administração de Proxy";       
+	m_SA[EN_US_UTF_8][_S_TIP_PROXYADMIN]="Proxy Administrator";
+	m_SA[ZH_CN_UTF_8][_S_TIP_PROXYADMIN]="代理管理器";
+	m_SA[ZH_TW_UTF_8][_S_TIP_PROXYADMIN]="代理管理器";
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_REFER]="Referenz [Option]";
+        m_SA[PT_BR_UTF_8][_S_NEW_REFER]="Referência[opcional]";       
+	m_SA[EN_US_UTF_8][_S_NEW_REFER]="Reference[option]";
+	m_SA[ZH_CN_UTF_8][_S_NEW_REFER]="主地址来源信息[可选]";
+	m_SA[ZH_TW_UTF_8][_S_NEW_REFER]="主地址来源信息[可選]";	
+	
+	m_SA[DE_DE_UTF_8][_S_NEW_REFERADDR]="REFER:";
+        m_SA[PT_BR_UTF_8][_S_NEW_REFERADDR]="Refer:";       
+	m_SA[EN_US_UTF_8][_S_NEW_REFERADDR]="Refer:";
+	m_SA[ZH_CN_UTF_8][_S_NEW_REFERADDR]="来源于:";
+	m_SA[ZH_TW_UTF_8][_S_NEW_REFERADDR]="来源於:";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_TASKOBJ]="Task object:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_TASKOBJ]="Objeto da Tarefa:";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_TASKOBJ]="Task object:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_TASKOBJ]="任务目标:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_TASKOBJ]="任務目標:";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_GETTEMPDIR]="Temporäres Verzeichnis setzen:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_GETTEMPDIR]="Obter diretorio temporario do usuário...:";         
+	m_SA[EN_US_UTF_8][_S_FILEMGR_GETTEMPDIR]="Get user temporary directory...:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_GETTEMPDIR]="提取用户临时目录...";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_GETTEMPDIR]="提取用戶臨時目錄...";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_TEMPDIR]="Temporäres Verzeichnis:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_TEMPDIR]="Diretório temporário é:";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_TEMPDIR]="Temporary directory is:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_TEMPDIR]="用户临时目录是:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_TEMPDIR]="用戶臨時目錄是:";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_TEMPNAME]="Temporäre Datei:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_TEMPNAME]="Arquivo temporário é:";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_TEMPNAME]="Temporary file is:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_TEMPNAME]="临时文件名:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_TEMPNAME]="臨時文檔名:";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_INDEXNAME]="Index Datei:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_INDEXNAME]="Arquivo de índice é:";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_INDEXNAME]="Index file is:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_INDEXNAME]="临时索引文件:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_INDEXNAME]="臨時索引文檔:";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_CHECKTEMP]="Überprüfe temporäre Datei...";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_CHECKTEMP]="Verificando arquivo temporário...";         
+	m_SA[EN_US_UTF_8][_S_FILEMGR_CHECKTEMP]="Check temporary file...";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_CHECKTEMP]="检查临时文件...";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_CHECKTEMP]="檢查臨時文檔...";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_TEMPEXIST]="Temporäre Datei existiert.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_TEMPEXIST]="Arquivo temporário existe.";   
+	m_SA[EN_US_UTF_8][_S_FILEMGR_TEMPEXIST]="Temporary file exists.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_TEMPEXIST]="临时文件存在。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_TEMPEXIST]="临時文檔存在。";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_TEMPNOTEXIST]="Temporäre Datei existiert nicht.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_TEMPNOTEXIST]="Arquivo temporário não existe.";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_TEMPNOTEXIST]="Temporary file not exists.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_TEMPNOTEXIST]="临时文件不存在。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_TEMPNOTEXIST]="临時文檔不存在。";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_CHECKINDEX]="Überprüfe Index Datei...";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_CHECKINDEX]="Verificando arquivo de índice...";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_CHECKINDEX]="Check index file...";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_CHECKINDEX]="检查索引文件...";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_CHECKINDEX]="檢查索引文檔...";		
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_INDEXEXIST]="Index Datei existiert.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_INDEXEXIST]="Arquivo de índice existe.";   
+	m_SA[EN_US_UTF_8][_S_FILEMGR_INDEXEXIST]="Index file exists.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_INDEXEXIST]="索引文件存在。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_INDEXEXIST]="索引文檔存在。";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_INDEXNOTEXIST]="Index Datei existiert nicht.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_INDEXNOTEXIST]="Arquivo de índice nõa existe.";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_INDEXNOTEXIST]="Index file not exists.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_INDEXNOTEXIST]="索引文件不存在。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_INDEXNOTEXIST]="索引文檔不存在。";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_CHECKTEMPLENGTH]="Überprüfe Dateigröße der temporären Datei...";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_CHECKTEMPLENGTH]="Verificando tamanho do arquivo temporário...";        
+	m_SA[EN_US_UTF_8][_S_FILEMGR_CHECKTEMPLENGTH]="Checking temporary file length...";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_CHECKTEMPLENGTH]="检查临时文件长度...";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_CHECKTEMPLENGTH]="檢查臨時文檔長度...";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_LENGTHOK]="Dateigröße OK.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_LENGTHOK]="Tamanho do arquivo OK.";	
+        m_SA[EN_US_UTF_8][_S_FILEMGR_LENGTHOK]="File length OK.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_LENGTHOK]="文件长度符合。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_LENGTHOK]="文檔長度符合。";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_LENGTHFAIL]="Dateigrößenüberprüfung fehlgeschlagen.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_LENGTHFAIL]="Falha na verificação do tamanho do arquivo.";         
+	m_SA[EN_US_UTF_8][_S_FILEMGR_LENGTHFAIL]="File length check fail.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_LENGTHFAIL]="文件长度无效。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_LENGTHFAIL]="文檔長度無效。";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_CREATEFILE]="Erstelle neue temporäre und Index Datei...";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_CREATEFILE]="Criando novo arquivo de índice temporário...";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_CREATEFILE]="Creating new temp and index file...";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_CREATEFILE]="建立新的临时文件和索引文件...";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_CREATEFILE]="建立新的臨時文檔和索引文檔...";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_CREATOK]="Erstellen der Datei war erfolgreich";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_CREATOK]="Criação do arquivo OK";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_CREATOK]="File created OK";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_CREATOK]="文件建立成功。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_CREATOK]="文檔建立成功。";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_REDIRECT]=" redirect to ";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_REDIRECT]=" redirecionado para ";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_REDIRECT]=" redirect to ";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_REDIRECT]=" 重定向到 ";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_REDIRECT]=" 重定向到 ";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_URLOK]="URL OK:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_URLOK]="Url OK:";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_URLOK]="Url OK:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_URLOK]="有效地址:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_URLOK]="有效地址:";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_URLTEMPFAIL]="URL temp fail:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_URLTEMPFAIL]="Falha na url temporária:";   
+	m_SA[EN_US_UTF_8][_S_FILEMGR_URLTEMPFAIL]="Url temp fail:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_URLTEMPFAIL]="地址暂时无效:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_URLTEMPFAIL]="地址暫時無效:";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_URLFAIL]="URL fail:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_URLFAIL]="Falha na url:";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_URLFAIL]="Url fail:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_URLFAIL]="地址无效:";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_URLFAIL]="地址無效:";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_NOTASK]="Keine weiteren Downloads, beende!";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_NOTASK]="Sem mais tarefas, finalizando!";    
+	m_SA[EN_US_UTF_8][_S_FILEMGR_NOTASK]="No more task, quit!";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_NOTASK]="没有更多任务，退出。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_NOTASK]="沒有更多任務，退出。";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_DATAOVERLOAD]="Datenüberlauf, evtl. ist die Datei beschädigt!";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_DATAOVERLOAD]="Sobrecarga de dados, pode ser um arquivo inválido!";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_DATAOVERLOAD]="Data overload, maybe file invalid!";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_DATAOVERLOAD]="数据超出了文件末尾，也许下载的文件无效！";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_DATAOVERLOAD]="數据超出了文檔末尾，也許下載的文檔無效！";
+
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_FILELENCONFIRM]="Dateigröße wurde bestätigt.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_FILELENCONFIRM]="Tamanho do arquivo foi confirmado.";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_FILELENCONFIRM]="File length have been confirmed.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_FILELENCONFIRM]="文件长度被确认。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_FILELENCONFIRM]="文檔長度被确認。";
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_ERRORCLOSESOCK]="Der Server hat die Verbindung unterbrochen, der Download könnte beschädigt sein.";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_ERRORCLOSESOCK]="Servidor fechou o antes do fim do arquivo, pode ser um arquivo inválido.";       
+	m_SA[EN_US_UTF_8][_S_FILEMGR_ERRORCLOSESOCK]="Server closed socket not at file end, maybe file invalid.";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_ERRORCLOSESOCK]="服务器中途关闭连接，也许文件无效。";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_ERRORCLOSESOCK]="伺服器中途關閉連線，也許文檔無效。";	
+	
+	m_SA[DE_DE_UTF_8][_S_FILEMGR_ENDFILELEN]="Endgültige Dateigröße:";
+        m_SA[PT_BR_UTF_8][_S_FILEMGR_ENDFILELEN]="Tamanho final do arquivo:";    	
+        m_SA[EN_US_UTF_8][_S_FILEMGR_ENDFILELEN]="Final file length:";
+	m_SA[ZH_CN_UTF_8][_S_FILEMGR_ENDFILELEN]="最后的文件长度";
+	m_SA[ZH_TW_UTF_8][_S_FILEMGR_ENDFILELEN]="最后的文件長度:";
+	
+	m_SA[DE_DE_UTF_8][_S_PROPERTYDLG_TITLE]="Downloadeigenschaften";
+        m_SA[PT_BR_UTF_8][_S_PROPERTYDLG_TITLE]="Propriedades da tarefa";       
+	m_SA[EN_US_UTF_8][_S_PROPERTYDLG_TITLE]="Task properties";
+	m_SA[ZH_CN_UTF_8][_S_PROPERTYDLG_TITLE]="任务属性";
+	m_SA[ZH_TW_UTF_8][_S_PROPERTYDLG_TITLE]="任務屬性";	
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_OPTION_PROPERTY]="Eigenschaften";
+        m_SA[PT_BR_UTF_8][_S_MENU_OPTION_PROPERTY]="Propriedades";       
+	m_SA[EN_US_UTF_8][_S_MENU_OPTION_PROPERTY]="Properties";
+	m_SA[ZH_CN_UTF_8][_S_MENU_OPTION_PROPERTY]="任务属性";
+	m_SA[ZH_TW_UTF_8][_S_MENU_OPTION_PROPERTY]="任務屬性";		
+
+	m_SA[DE_DE_UTF_8][_S_TIP_PROPERTY]="Zeige/Ändere Downloadeigenschaften";
+        m_SA[PT_BR_UTF_8][_S_TIP_PROPERTY]="Mostrar/Modificar propriedades da tarefa";       
+	m_SA[EN_US_UTF_8][_S_TIP_PROPERTY]="Show/Modify task properties";
+	m_SA[ZH_CN_UTF_8][_S_TIP_PROPERTY]="显示/修改任务属性";
+	m_SA[ZH_TW_UTF_8][_S_TIP_PROPERTY]="顯示/修改任務屬性";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_JOBRUN]="Download läuft...";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_JOBRUN]="Trabalho em execução...";      
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_JOBRUN]="Job running...";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_JOBRUN]="任务开始...";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_JOBRUN]="任務開始...";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_ANALYSISURL]="Analysiere URL...";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_ANALYSISURL]="Analisando url...";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_ANALYSISURL]="Analysis url...";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_ANALYSISURL]="分析url...";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_ANALYSISURL]="分析url...";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_NOTSUPPORTURL]="URL Typ nicht unterstützt.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_NOTSUPPORTURL]="Tipo de url não suportado.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_NOTSUPPORTURL]="Not a support url type.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_NOTSUPPORTURL]="不支持的url协议类型";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_NOTSUPPORTURL]="不支持的url協議類型";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_TASKURLOK]="URL Ok.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_TASKURLOK]="Url Ok.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_TASKURLOK]="Url Ok.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_TASKURLOK]="Url类型合法";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_TASKURLOK]="Url類型合法";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_URLISFTP]="Die Haupt URL ist ein FTP";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_URLISFTP]="Url principal é do tipo ftp.";              
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_URLISFTP]="Main url is ftp type.";
+ 	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_URLISFTP]="主地址是FTP类型";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_URLISFTP]="主地址是FTP類型";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_USESOCKSPROXY]="Der Download wird einen Socks Proxy verwenden.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_USESOCKSPROXY]="A tarefa usará proxy de socks.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_USESOCKSPROXY]="Task will use socks proxy.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_USESOCKSPROXY]="任务会使用socks代理";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_USESOCKSPROXY]="任務會使用socks代理";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_USEFTPPROXY]="Der Download wird einen FTP Proxy verwenden.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_USEFTPPROXY]="A tarefa usará proxy de ftp.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_USEFTPPROXY]="Task will use ftp proxy.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_USEFTPPROXY]="任务会使用ftp代理";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_USEFTPPROXY]="任務會使用ftp代理";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_USEHTTPPROXY]="Der Download wird einen FTP Proxy verwenden.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_USEHTTPPROXY]="A tarefa usará proxy de http.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_USEHTTPPROXY]="Task will use http proxy.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_USEHTTPPROXY]="任务会使用http代理";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_USEHTTPPROXY]="任務會使用http代理";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Fehler beim Auslesen der Dateiinformationen.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Obtido erro nas informações do arquivo.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Get file info error.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="获取文件信息失败";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="獲取文擋信息失敗";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Keine Dateigröße erhalten.";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Não obtive o tamanho do arquivo.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="No file length got.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="没有取得文件长度";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="沒有取得文擋長度";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Der Server unterstützt kein RESUME";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Obtido erro nas informações do arquivo..";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="Get file info error.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="服务器不支持续传";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_GETFILEINFOERROR]="伺服器不支持續傳";
+
+	m_SA[DE_DE_UTF_8][_S_SINGLETASK_URLISHTTP]="Die Haupt URL ist ein HTTP";
+        m_SA[PT_BR_UTF_8][_S_SINGLETASK_URLISHTTP]="Url principal é do tipo http.";       
+	m_SA[EN_US_UTF_8][_S_SINGLETASK_URLISHTTP]="Main url is http type.";
+	m_SA[ZH_CN_UTF_8][_S_SINGLETASK_URLISHTTP]="主地址是HTTP类型";
+	m_SA[ZH_TW_UTF_8][_S_SINGLETASK_URLISHTTP]="主地址是HTTP類型";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_CONNECTING]="Verbinde";
+        m_SA[PT_BR_UTF_8][_S_ANTS_CONNECTING]="Conectando "  ;     
+	m_SA[EN_US_UTF_8][_S_ANTS_CONNECTING]="Connecting ";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_CONNECTING]="正在连接";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_CONNECTING]="正在連線";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_CONNECTFAIL]="Verbindung fehlgeschlagen.";
+        m_SA[PT_BR_UTF_8][_S_ANTS_CONNECTFAIL]="Falha na conexão.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_CONNECTFAIL]="Connect fail.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_CONNECTFAIL]="连接失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_CONNECTFAIL]="連線失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_LOGINFAIL]="Login fehlgeschlagen.";
+        m_SA[PT_BR_UTF_8][_S_ANTS_LOGINFAIL]="Falha no login.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_LOGINFAIL]="Login fail.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_LOGINFAIL]="登录失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_LOGINFAIL]="登彔失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_ENTERPASVFAIL]="Passive Mode fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_ANTS_ENTERPASVFAIL]="Falha na entrada no modo passivo.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_ENTERPASVFAIL]="Enter passive mode fail.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_ENTERPASVFAIL]="进入被动模式失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_ENTERPASVFAIL]="轉入被動模式失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_DATACONNFAIL]="Datenverbindung fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_ANTS_DATACONNFAIL]="Falha de conexão de dados";    
+	m_SA[EN_US_UTF_8][_S_ANTS_DATACONNFAIL]="Data connection fail";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_DATACONNFAIL]="数据通道连接失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_DATACONNFAIL]="數据通道連線失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_DATACONNOK]="Datenverbindung OK";
+        m_SA[PT_BR_UTF_8][_S_ANTS_DATACONNOK]="Conexão de dados Ok";       
+	m_SA[EN_US_UTF_8][_S_ANTS_DATACONNOK]="Data connection Ok";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_DATACONNOK]="数据通道连接成功";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_DATACONNOK]="數据通道連線成功";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_BINARYFAIL]="Binary Mode fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_ANTS_BINARYFAIL]="Falha na entrada no modo binário";            
+	m_SA[EN_US_UTF_8][_S_ANTS_BINARYFAIL]="Enter binary mode fail";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_BINARYFAIL]="进入二进制模式失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_BINARYFAIL]="進入二進制模式失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_SETRESUMEFAIL]="Setzen des RESUME Punktes fehlgeschlagen";
+        m_SA[PT_BR_UTF_8][_S_ANTS_SETRESUMEFAIL]="Falha na determinação do ponto de reinício";          
+	m_SA[EN_US_UTF_8][_S_ANTS_SETRESUMEFAIL]="Set resume point fail";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_SETRESUMEFAIL]="设置传送位置失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_SETRESUMEFAIL]="設置傳送位置失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_FAILTOGETFILE]="Datei konnte nicht übertragen werden";
+        m_SA[PT_BR_UTF_8][_S_ANTS_FAILTOGETFILE]="Falha ao obter o arquivo";     
+	m_SA[EN_US_UTF_8][_S_ANTS_FAILTOGETFILE]="Fail to get file";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_FAILTOGETFILE]="传送文件失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_FAILTOGETFILE]="傳送文件失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_RECVFILEDATA]="Erhalte Daten von %lld ...";
+        m_SA[PT_BR_UTF_8][_S_ANTS_RECVFILEDATA]="Recebendo dados do arquivo de %lld ...";       
+	m_SA[EN_US_UTF_8][_S_ANTS_RECVFILEDATA]="Receiving file data from %lld ...";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_RECVFILEDATA]="从%d处开始接收数据...";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_RECVFILEDATA]="從%d處開始接收數据...";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_FINISHNORMAL]="Übertragung erfolgreich abgeschlossen, schließe.";
+        m_SA[PT_BR_UTF_8][_S_ANTS_FINISHNORMAL]="Sessão de tarefa terminada normalmente, finalizando.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_FINISHNORMAL]="Finish task session normally, quit.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_FINISHNORMAL]="正常结束当前任务片，退出。";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_FINISHNORMAL]="正常結束當前任務片，退出。";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_WRITEERROR]="Datei Schreibfehler.";
+        m_SA[PT_BR_UTF_8][_S_ANTS_WRITEERROR]="Erro ao gravar o arquivo.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_WRITEERROR]="Write file error.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_WRITEERROR]="写文件失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_WRITEERROR]="寫文檔失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_NETERROR]="Netzwerkfehler.";
+        m_SA[PT_BR_UTF_8][_S_ANTS_NETERROR]="Erro na rede.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_NETERROR]="Network error.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_NETERROR]="网络失败";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_NETERROR]="网路失敗";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_NETERROR]="Download URL Änderung";
+        m_SA[PT_BR_UTF_8][_S_ANTS_NETERROR]="Url da tarefa pode mudar.";       
+	m_SA[EN_US_UTF_8][_S_ANTS_NETERROR]="Task url should change.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_NETERROR]="任务地址改变";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_NETERROR]="任務地址改變";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_WAITTORETRY]="Warte %d Sekunden bis zum erneuten Versuch...";
+        m_SA[PT_BR_UTF_8][_S_ANTS_WAITTORETRY]="Esperando %d segundos para nova tentativa...";        
+	m_SA[EN_US_UTF_8][_S_ANTS_WAITTORETRY]="Wait %d seconds to retry...";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_WAITTORETRY]="等待%d秒后重试...";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_WAITTORETRY]="等待%d秒後重試...";
+
+	m_SA[DE_DE_UTF_8][_S_ANTS_NORETRY]="Keine weitere Wiederholung, schließe.";
+        m_SA[PT_BR_UTF_8][_S_ANTS_NORETRY]="Sem mais tentativas, fim.";        
+	m_SA[EN_US_UTF_8][_S_ANTS_NORETRY]="No more retry, quit.";
+	m_SA[ZH_CN_UTF_8][_S_ANTS_NORETRY]="不再重试，退出";
+	m_SA[ZH_TW_UTF_8][_S_ANTS_NORETRY]="不再重試，退出";
+
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_FILE_SAVECONFIG]="Configuration speichern";
+        m_SA[PT_BR_UTF_8][_S_MENU_FILE_SAVECONFIG]="Salvar configuração" ;      
+	m_SA[EN_US_UTF_8][_S_MENU_FILE_SAVECONFIG]="Save config";
+	m_SA[ZH_CN_UTF_8][_S_MENU_FILE_SAVECONFIG]="保存当前配置";
+	m_SA[ZH_TW_UTF_8][_S_MENU_FILE_SAVECONFIG]="保存當前配置";
+	
+	m_SA[DE_DE_UTF_8][_S_MENU_FILE_SAVETASK]="Downloadliste speichern";
+        m_SA[PT_BR_UTF_8][_S_MENU_FILE_SAVETASK]="Salvar a lista de tarefas";    
+	m_SA[EN_US_UTF_8][_S_MENU_FILE_SAVETASK]="Save task list";
+	m_SA[ZH_CN_UTF_8][_S_MENU_FILE_SAVETASK]="保存任务表";
+	m_SA[ZH_TW_UTF_8][_S_MENU_FILE_SAVETASK]="保存任務表";	
+
+	m_SA[DE_DE_UTF_8][_S_MENU_FILE_SAVEPROXY]="Proxy Liste speichern";
+        m_SA[PT_BR_UTF_8][_S_MENU_FILE_SAVEPROXY]="Salvar a lista de proxy";     
+	m_SA[EN_US_UTF_8][_S_MENU_FILE_SAVEPROXY]="Save proxy list";
+	m_SA[ZH_CN_UTF_8][_S_MENU_FILE_SAVEPROXY]="保存代理表";
+	m_SA[ZH_TW_UTF_8][_S_MENU_FILE_SAVEPROXY]="保存代理表";
+
+	m_SA[DE_DE_UTF_8][_S_MENU_HELP_VISITHOME]="Homepage besuchen...";
+        m_SA[PT_BR_UTF_8][_S_MENU_HELP_VISITHOME]="Visite a página oficial..." ; 
+	m_SA[EN_US_UTF_8][_S_MENU_HELP_VISITHOME]="Visit homepage...";
+	m_SA[ZH_CN_UTF_8][_S_MENU_HELP_VISITHOME]="访问软件主页...";
+	m_SA[ZH_TW_UTF_8][_S_MENU_HELP_VISITHOME]="訪問軟体主頁...";
