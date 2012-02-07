@@ -169,6 +169,7 @@ int gRetryTime = 99;
 int gRetryWait = 30;
 bool gbIgnoreExt = false;
 bool gbMonitorExt = false;
+bool gbDisableDropWin = true;
 bool gbShowDropWin = true;
 bool gbMonitorClip = true;
 bool gbSoundTip = false;
